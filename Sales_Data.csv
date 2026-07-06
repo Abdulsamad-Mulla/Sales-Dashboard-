@@ -1,0 +1,1011 @@
+Transaction ID,Customer ID,Category,Item,Price Per Unit,Quantity,Total Spent,Payment Method,Location,Transaction Date,Discount Applied
+10001,C250,Groceries,,2499,8,,Net Banking,Bengaluru,Invalid Date,Yes
+10002,C241,Electronics,Mouse,999,1,999,Card,Bengaluru,23-07-2025,
+10003,C233,Clothing,Shoes,2499,,12495,Card,Bengaluru,06-02-2025,Yes
+10004,C182,Electronics,Phone,2499,7,17493,Card,Pune,29-12-2025,Yes
+10005,C125,Home,,1499,-3,1499,Cash,Delhi,11-12-2025,No
+10006,C209,Groceries,Eggs,1499,3,4497,UPI,Bengaluru,07-12-2025,Yes
+10007,C196,Electronics,Mouse,,8,3992,Net Banking,Pune,01-04-2025,
+10008,C185,Electronics,Headphones,499,1,499,Cash,Bengaluru,22-02-2025,Yes
+10009,C291,Home,Table,499,10,4990,Net Banking,Pune,28-01-2025,No
+10010,C285,Groceries,,1499,7,10493,Card,Delhi,22-04-2025,
+10011,C258,Home,Table,799,4,3196,Net Banking,Delhi,15-10-2025,No
+10012,C141,Electronics,Laptop,,,22491,UPI,Delhi,01-01-2025,
+10013,C153,Home,Table,199,9,1791,Net Banking,Hyderabad,03-05-2025,
+10014,C208,Groceries,Eggs,2499,6,14994,Card,Pune,21-06-2025,No
+10015,C118,Clothing,Shirt,999,5,4995,Card,Bengaluru,06-04-2025,Yes
+10016,C300,Home,,499,4,1996,Net Banking,Mumbai,08-07-2025,No
+10017,C215,Home,Curtain,2499,2,4998,Net Banking,Pune,22-04-2025,No
+10018,C137,Groceries,Rice,499,1,499,Net Banking,Hyderabad,04-01-2025,No
+10019,C200,Electronics,Laptop,199,9,,UPI,Mumbai,22-06-2025,No
+10020,C117,Home,Chair,799,1,799,Cash,Bengaluru,13-12-2025,No
+10021,C207,Clothing,Jeans,2499,7,17493,Cash,Delhi,04-02-2025,No
+10022,C248,Clothing,Jacket,1499,1,1499,Net Banking,Bengaluru,06-12-2025,No
+10023,C293,Groceries,Rice,2499,3,7497,Card,Mumbai,14-07-2025,No
+10024,C212,Clothing,Shoes,499,8,3992,Net Banking,Pune,04-01-2025,Yes
+10025,C207,Clothing,Jeans,1499,4,5996,Net Banking,Hyderabad,28-03-2025,Yes
+10026,C171,Clothing,Jeans,-199,9,8991,Net Banking,Mumbai,16-06-2025,
+10027,C265,Groceries,Eggs,,9,2691,UPI,Mumbai,21-05-2025,No
+10028,C270,Home,Chair,799,7,5593,Card,Mumbai,17-04-2025,Yes
+10029,C189,Clothing,Shirt,799,10,7990,UPI,Delhi,23-09-2025,No
+10030,C217,Home,Curtain,799,6,4794,Card,Hyderabad,15-08-2025,Yes
+10031,C180,Electronics,Laptop,499,8,3992,Net Banking,Pune,29-11-2025,Yes
+10032,C254,Clothing,Shirt,-199,8,3992,Card,Hyderabad,17-01-2025,Yes
+10033,C262,Electronics,Phone,499,9,4491,Card,Mumbai,26-07-2025,Yes
+10034,C207,Electronics,Laptop,499,1,499,UPI,Mumbai,16-09-2025,No
+10035,C203,Home,Lamp,199,2,398,Cash,Mumbai,30-09-2025,Yes
+10036,C255,Electronics,Laptop,799,4,3196,Cash,Mumbai,30-08-2025,No
+10037,C266,Home,Curtain,799,5,3995,Card,Delhi,03-09-2025,No
+10038,C219,Clothing,,1499,5,7495,Card,Bengaluru,08-06-2025,No
+10039,C194,Clothing,,999,6,5994,Card,Bengaluru,28-12-2025,Yes
+10040,C269,Groceries,Milk,499,7,3493,UPI,Mumbai,14-11-2025,Yes
+10041,C202,Electronics,Mouse,499,6,2994,Card,Pune,05-03-2025,Yes
+10042,C253,Home,Table,999,4,3996,Cash,Pune,30-06-2025,Yes
+10043,C174,Electronics,Phone,299,6,1794,UPI,Delhi,16-09-2025,Yes
+10044,C266,Home,Lamp,1499,5,7495,Card,Hyderabad,03-12-2025,Yes
+10045,C235,Groceries,Eggs,299,7,2093,Cash,Bengaluru,01-11-2025,Yes
+10046,C175,Clothing,Jeans,,1,499,Cash,Mumbai,04-09-2025,
+10047,C207,Groceries,Rice,799,5,3995,Cash,Delhi,22-07-2025,Yes
+10048,C250,Electronics,Phone,2499,3,7497,Net Banking,Bengaluru,23-12-2025,Yes
+10049,C153,Electronics,Headphones,,5,4995,Net Banking,Mumbai,31-03-2025,
+10050,C225,Electronics,Phone,2499,6,14994,Card,Pune,25-06-2025,Yes
+10051,C129,Home,Lamp,1499,7,10493,Card,Pune,13-07-2025,Yes
+10052,C269,Groceries,Eggs,-199,7,6993,UPI,Hyderabad,17-01-2025,Yes
+10053,C291,Electronics,,299,8,2392,card, Mumbai ,18-02-2025,No
+10054,C250,Groceries,Eggs,199,8,1592,upi,Pune,25-10-2025,Yes
+10055,C143,Clothing,Shoes,,3,4497,Card,Hyderabad,26-05-2025,Yes
+10056,C285,Electronics,Headphones,999,2,1998,UPI,Pune,11-04-2025,Yes
+10057,C251,Clothing,Jacket,799,10,7990,Cash,Hyderabad,10-01-2025,Yes
+10058,C141,Groceries,Rice,799,,3995,Cash,Hyderabad,24-02-2025,No
+10059,C214,Home,Curtain,299,7,,Card,Pune,21-04-2025,No
+10060,C199,Electronics,Headphones,799,8,6392,Cash,Pune,15-11-2025,Yes
+10061,C293,Electronics,Headphones,799,4,3196,Card,Bengaluru,08-10-2025,
+10062,C129,Electronics,Phone,799,7,5593,Cash,Pune,17-10-2025,No
+10063,C265,Clothing,Jacket,1499,7,10493,Card,Delhi,15-07-2025,No
+10064,C184,Groceries,Bread,799,7,5593,Net Banking,Hyderabad,29-06-2025,
+10065,C141,Groceries,Rice,499,3,1497,Cash,Mumbai,15-03-2025,
+10066,C273,Groceries,Bread,499,2,998,Cash,Bengaluru,01-10-2025,No
+10067,C298,Electronics,,199,5,995,Net Banking,Delhi,23-11-2025,Yes
+10068,C294,Clothing,Shirt,199,9,1791,Net Banking,Hyderabad,18-03-2025,No
+10069,C206,Electronics,Headphones,199,10,1990,UPI,Bengaluru,01-08-2025,Yes
+10070,C282,Groceries,Eggs,499,3,1497,UPI,Mumbai,03-01-2025,Yes
+10071,C151,Home,,2499,-2,2499,UPI,Hyderabad,19-03-2025,
+10072,C245,Groceries,Milk,299,,1794,Net Banking,Bengaluru,18-10-2025,No
+10073,C177,Clothing,Shirt,499,7,3493,UPI,Hyderabad,16-09-2025,No
+10074,C260,Home,Table,199,1,199,UPI,Bengaluru,28-05-2025,No
+10075,C230,Clothing,Jeans,999,4,3996,Cash,Hyderabad,11-11-2025,No
+10076,C236,Clothing,Jacket,2499,5,12495,Cash,Mumbai,17-04-2025,No
+10077,C222,Groceries,Rice,1499,7,10493,UPI,Pune,28-08-2025,Yes
+10078,C205,Home,Table,799,1,799,Cash,Pune,11-07-2025,No
+10079,C264,Home,Lamp,999,6,5994,Cash,Delhi,18-07-2025,Yes
+10080,C139,Clothing,Shirt,2499,8,19992,Net Banking,Mumbai,20-11-2025,No
+10081,C252,Clothing,Jacket,199,2,398,UPI,Pune,15-08-2025,
+10082,C121,Electronics,Mouse,199,10,1990,Net Banking,Bengaluru,14-11-2025,No
+10083,C105,Home,Table,199,4,796,Card,Mumbai,20-10-2025,No
+10084,C129,Home,Curtain,499,7,3493,UPI,Pune,21-08-2025,No
+10085,C137,Clothing,Shoes,-199,4,1996,UPI,Mumbai,02-09-2025,No
+10086,C290,Groceries,,199,,995,Net Banking,Mumbai,16-08-2025,No
+10087,C153,Clothing,Shirt,1499,5,7495,Cash,Bengaluru,11-09-2025,Yes
+10088,C235,Electronics,Mouse,,2,4998,Card,Bengaluru,14-02-2025,No
+10089,C261,Clothing,,299,7,2093,Net Banking,Mumbai,08-09-2025,
+10090,C156,Home,Chair,799,2,1598,Cash,Delhi,17-02-2025,No
+10091,C256,Groceries,Bread,499,5,2495,Cash,Hyderabad,20-02-2025,No
+10092,C124,Groceries,Rice,,5,,UPI,Bengaluru,28-04-2025,No
+10093,C116,Clothing,,2499,8,19992,Cash,Delhi,11-02-2025,Yes
+10094,C285,Clothing,Jacket,499,2,,Cash,Hyderabad,27-03-2025,No
+10095,C147,Groceries,Milk,799,6,4794,UPI,Hyderabad,24-03-2025,Yes
+10096,C216,Clothing,Jacket,,4,796,UPI,Pune,16-03-2025,
+10097,C207,Clothing,Jacket,1499,2,2998,Net Banking,Delhi,13-12-2025,No
+10098,C132,Electronics,Mouse,999,,5994,UPI,Bengaluru,11-06-2025,No
+10099,C260,Clothing,Jeans,,2,4998,Net Banking,Delhi,Invalid Date,No
+10100,C241,Home,Chair,799,8,6392,UPI,Hyderabad,05-11-2025,No
+10101,C191,Home,Lamp,2499,2,4998,Cash,Bengaluru,25-03-2025,Yes
+10102,C133,Home,Chair,799,8,6392,Cash,Delhi,26-09-2025,No
+10103,C191,Home,Lamp,2499,10,24990,Cash,Pune,28-11-2025,No
+10104,C130,Clothing,Jacket,999,,8991,UPI,Hyderabad,03-10-2025,No
+10105,C189,Clothing,Jeans,1499,6,8994,Card,Delhi,03-11-2025,No
+10106,C245,Home,Lamp,2499,10,24990,Card,Hyderabad,15-09-2025,Yes
+10107,C290,Clothing,Shoes,799,9,7191,Cash,Bengaluru,06-06-2025,Yes
+10108,C203,Home,Chair,799,3,2397,Card,Hyderabad,21-07-2025,Yes
+10109,C218,Clothing,Shoes,1499,2,2998,Card,Hyderabad,06-04-2025,
+10110,C203,Electronics,Headphones,1499,4,5996,UPI,Pune,13-11-2025,Yes
+10111,C279,Groceries,Milk,299,7,2093,Net Banking,Mumbai,23-01-2025,
+10112,C242,Clothing,Shoes,2499,6,14994,Cash,Mumbai,08-02-2025,Yes
+10113,C197,Groceries,Milk,299,1,299,Card,Pune,06-10-2025,Yes
+10114,C176,Home,Table,1499,6,8994,Net Banking,Bengaluru,16-07-2025,No
+10115,C300,Home,Table,2499,6,14994,UPI,Hyderabad,21-09-2025,No
+10116,C245,Clothing,Jeans,,2,998,UPI,Bengaluru,10-02-2025,Yes
+10117,C265,Clothing,Shoes,199,6,1194,Net Banking,Delhi,26-09-2025,
+10118,C215,Home,Curtain,199,,597,UPI,Hyderabad,01-12-2025,No
+10119,C283,Groceries,Rice,999,2,1998,Card,Hyderabad,01-08-2025,No
+10120,C192,Electronics,Mouse,999,1,999,Card,Bengaluru,23-08-2025,No
+10121,C178,Home,,799,10,,Cash,Pune,24-09-2025,
+10122,C185,Clothing,Shoes,499,2,998,Cash,Delhi,26-03-2025,Yes
+10123,C202,Clothing,Shirt,499,8,3992,Cash,Pune,26-12-2025,
+10124,C287,Electronics,Phone,1499,6,8994,Cash,Hyderabad,21-01-2025,No
+10125,C135,Groceries,Milk,799,4,3196,Cash,Bengaluru,22-08-2025,No
+10126,C124,Groceries,Bread,199,2,398,Card,Pune,13-01-2025,
+10127,C263,Clothing,Jacket,499,7,3493,Net Banking,Hyderabad,07-01-2025,No
+10128,C288,Home,Lamp,2499,1,2499,Net Banking,Delhi,02-03-2025,No
+10129,C269,Clothing,Jacket,2499,1,2499,UPI,Mumbai,15-10-2025,Yes
+10130,C224,Electronics,Mouse,999,-1,3996,Card,Hyderabad,04-11-2025,No
+10131,C262,Clothing,Jacket,299,3,897,Cash,Mumbai,30-01-2025,No
+10132,C141,Electronics,Phone,2499,4,9996,Cash,Pune,01-09-2025,Yes
+10133,C291,Groceries,Rice,499,3,1497,Net Banking,Pune,19-04-2025,Yes
+10134,C171,Clothing,Shirt,499,5,2495,UPI,Hyderabad,09-02-2025,No
+10135,C234,Groceries,Bread,299,8,2392,Cash,Mumbai,17-09-2025,Yes
+10136,C258,Groceries,Bread,,7,6993,Cash,Bengaluru,26-10-2025,
+10137,C107,Home,Chair,999,8,7992,Cash, Mumbai ,18-04-2025,
+10138,C215,Groceries,Bread,999,1,999,UPI,Mumbai,14-09-2025,No
+10139,C170,Clothing,Shirt,299,5,1495,Net Banking,Mumbai,22-06-2025,
+10140,C100,Groceries,Bread,299,8,2392,UPI,Bengaluru,31-10-2025,No
+10141,C236,Electronics,Laptop,199,7,1393,Cash,Delhi,05-09-2025,Yes
+10142,C102,Home,Table,799,9,7191,Net Banking,Mumbai,16-01-2025,Yes
+10143,C282,Home,Table,199,7,1393,UPI,Delhi,27-08-2025,No
+10144,C193,Electronics,Mouse,,4,3196,Cash,Hyderabad,18-01-2025,Yes
+10145,C265,Groceries,Rice,2499,9,22491,Net Banking,Mumbai,21-12-2025,Yes
+10146,C227,Home,Curtain,799,1,799,Card,Pune,01-10-2025,No
+10147,C164,Clothing,Shirt,799,1,799,Net Banking,Pune,17-10-2025,No
+10148,C203,Clothing,Jacket,299,7,2093,Card,Pune,21-09-2025,
+10149,C227,Clothing,Shoes,2499,8,19992,card,Hyderabad,01-08-2025,No
+10150,C299,Clothing,Shirt,799,,799,Net Banking,Hyderabad,21-11-2025,Yes
+10151,C149,Groceries,Rice,2499,,9996,Net Banking,Mumbai,28-12-2025,No
+10152,C293,Clothing,Jacket,1499,7,10493,Cash,Pune,28-05-2025,Yes
+10153,C156,Home,Curtain,499,2,998,Cash,Bengaluru,21-01-2025,
+10154,C117,Clothing,,299,10,2990,Net Banking,Pune,26-04-2025,No
+10155,C283,Groceries,Rice,2499,1,2499,Cash,Mumbai,02-10-2025,Yes
+10156,C273,Electronics,Laptop,199,7,1393,UPI,Delhi,20-06-2025,
+10157,C120,Groceries,,,10,9990,Net Banking,Mumbai,03-03-2025,No
+10158,C204,Clothing,Jeans,799,9,7191,Net Banking,Pune,27-01-2025,
+10159,C160,Electronics,Mouse,2499,1,2499,Cash,Mumbai,16-11-2025,
+10160,C113,Groceries,Milk,299,6,1794,Card,Delhi,12-02-2025,No
+10161,C289,Electronics,Phone,999,6,5994,UPI,Bengaluru,27-03-2025,
+10162,C164,Clothing,Jeans,799,1,799,Card,Pune,17-04-2025,Yes
+10163,C114,Home,Curtain,299,8,2392,Card,Delhi,15-02-2025,Yes
+10164,C183,Clothing,Jeans,2499,9,22491,Cash,Delhi,18-05-2025,No
+10165,C184,Groceries,,199,5,995,Net Banking,Delhi,06-06-2025,Yes
+10166,C131,Clothing,,,7,2093,Card,Pune,21-11-2025,Yes
+10167,C182,Groceries,Milk,499,8,3992,Cash,Pune,27-09-2025,Yes
+10168,C178,Electronics,Laptop,1499,9,13491,Cash,Mumbai,26-12-2025,Yes
+10169,C244,Home,Curtain,299,9,2691,UPI,Pune,08-06-2025,No
+10170,C240,Electronics,Laptop,499,1,499,Cash,Delhi,02-11-2025,Yes
+10171,C113,Groceries,Milk,2499,8,19992,UPI,Pune,17-07-2025,No
+10172,C197,Electronics,Headphones,299,5,1495,Card,Delhi,20-11-2025,No
+10173,C183,Electronics,Phone,,4,1996,Net Banking,Delhi,05-09-2025,No
+10174,C113,Electronics,Headphones,499,4,1996,Cash,Pune,30-07-2025,Yes
+10175,C126,Electronics,Laptop,799,8,6392,Net Banking,Pune,08-05-2025,Yes
+10176,C164,Home,Chair,2499,10,24990,Cash,Pune,15-05-2025,Yes
+10177,C163,Electronics,Phone,-199,1,499,Card,Delhi,14-03-2025,No
+10178,C191,Home,Curtain,,5,995,Net Banking,Pune,20-06-2025,No
+10179,C136,Electronics,Headphones,1499,3,4497,Net Banking,Bengaluru,12-12-2025,No
+10180,C176,Groceries,Eggs,2499,3,7497,Net Banking,Mumbai,05-07-2025,No
+10181,C172,Electronics,Headphones,2499,9,22491,Card,Pune,05-10-2025,No
+10182,C244,Clothing,Jacket,499,1,499,Net Banking,Bengaluru,19-02-2025,
+10183,C173,Clothing,Shirt,199,3,597,Cash,Hyderabad,30-01-2025,Yes
+10184,C284,Home,Table,1499,7,10493,Cash,Delhi,25-03-2025,Yes
+10185,C179,Groceries,Bread,199,7,1393,Cash,Pune,09-11-2025,Yes
+10186,C130,Groceries,,999,9,,Cash,Bengaluru,20-07-2025,No
+10187,C179,Groceries,Milk,799,7,5593,UPI,Bengaluru,07-08-2025,No
+10188,C295,Clothing,Jacket,199,9,1791,UPI,Bengaluru,10-10-2025,Yes
+10189,C153,Electronics,Headphones,199,10,1990,Card,Mumbai,19-09-2025,No
+10190,C275,Groceries,Rice,799,3,2397,UPI,Mumbai,24-02-2025,Yes
+10191,C228,Groceries,Rice,1499,9,13491,Net Banking,Bengaluru,25-08-2025,Yes
+10192,C230,Groceries,Milk,199,6,1194,Card,Bengaluru,02-02-2025,Yes
+10193,C126,Home,Lamp,1499,4,5996,Cash,Bengaluru,25-10-2025,
+10194,C269,Electronics,Mouse,199,1,199,UPI,Delhi,07-05-2025,No
+10195,C253,Electronics,,1499,3,4497,Net Banking,Delhi,22-10-2025,Yes
+10196,C134,Clothing,Jeans,1499,7,10493,Card,Pune,24-12-2025,No
+10197,C241,Electronics,Phone,799,7,5593,Net Banking,Hyderabad,12-04-2025,No
+10198,C269,Home,Curtain,199,7,1393,Card,Hyderabad,19-10-2025,Yes
+10199,C269,Electronics,Headphones,199,,1990,Cash,Pune,25-03-2025,No
+10200,C159,Electronics,Phone,299,5,1495,Card,Pune,25-08-2025,
+10201,C233,Clothing,Shoes,199,1,199,Card,Bengaluru,28-10-2025,Yes
+10202,C133,Electronics,Laptop,299,4,1196,Cash,Hyderabad,15-06-2025,
+10203,C295,Home,Curtain,999,10,9990,UPI,Delhi,11-07-2025,Yes
+10204,C204,Electronics,Phone,1499,7,10493,Net Banking,Delhi,29-05-2025,
+10205,C126,Clothing,Shoes,1499,4,5996,Card,Hyderabad,13-07-2025,No
+10206,C299,Clothing,Jacket,299,5,1495,Card,Hyderabad,12-08-2025,No
+10207,C184,Home,Lamp,-199,10,14990,UPI,Delhi,19-11-2025,No
+10208,C278,Electronics,Mouse,2499,2,4998,UPI,Mumbai,17-01-2025,No
+10209,C254,Electronics,Laptop,199,,1393,UPI,Mumbai,05-06-2025,No
+10210,C191,Home,Lamp,999,8,7992,Card,Mumbai,22-03-2025,Yes
+10211,C119,Electronics,,2499,1,2499,Cash,Mumbai,11-01-2025,
+10212,C150,Clothing,Shirt,999,8,7992,Cash,Pune,01-08-2025,
+10213,C137,Groceries,Rice,299,8,2392,Card,Pune,13-04-2025,No
+10214,C265,Clothing,Jacket,199,5,995,Card,Hyderabad,02-11-2025,Yes
+10215,C263,Clothing,Shoes,2499,9,22491,Card,Mumbai,17-02-2025,Yes
+10216,C205,Groceries,Eggs,199,5,,Card,Delhi,11-02-2025,No
+10217,C139,Clothing,Jeans,299,10,,Card,Delhi,01-03-2025,No
+10218,C191,Electronics,Laptop,1499,6,8994,UPI,Delhi,06-01-2025,No
+10219,C292,Electronics,Mouse,1499,9,13491,Cash,Bengaluru,13-09-2025,No
+10220,C134,Groceries,,1499,6,8994,Net Banking,Mumbai,15-02-2025,Yes
+10221,C181,Groceries,Rice,299,5,,Cash,Mumbai,12-03-2025,Yes
+10222,C294,Home,Curtain,499,10,4990,Cash,Pune,30-01-2025,No
+10223,C289,Clothing,Jacket,2499,5,12495,UPI,Delhi,12-12-2025,Yes
+10224,C227,Groceries,Milk,199,1,199,Card,Bengaluru,10-07-2025,Yes
+10225,C208,Clothing,Shirt,499,6,2994,Card,Bengaluru,01-09-2025,
+10226,C153,Groceries,Eggs,299,8,2392,Net Banking,Delhi,30-12-2025,Yes
+10227,C173,Groceries,Milk,999,9,,Net Banking,Mumbai,01-05-2025,No
+10228,C104,Clothing,Shirt,499,9,4491,Card,Delhi,29-03-2025,
+10229,C204,Home,Chair,499,6,2994,UPI,Bengaluru,16-08-2025,No
+10230,C140,Groceries,Rice,499,1,499,upi,Hyderabad,11-10-2025,Yes
+10231,C110,Electronics,Phone,799,9,7191,UPI,Bengaluru,09-12-2025,Yes
+10232,C252,Electronics,Laptop,499,7,3493,UPI,Mumbai,31-07-2025,No
+10233,C124,Groceries,Milk,999,3,2997,UPI,Hyderabad,07-08-2025,Yes
+10234,C182,Groceries,Eggs,499,3,1497,Net Banking,Mumbai,07-12-2025,No
+10235,C107,Clothing,Shirt,299,10,2990,Card,Mumbai,14-02-2025,No
+10236,C116,Groceries,Bread,799,8,6392,Net Banking,Delhi,29-06-2025,No
+10237,C115,Clothing,Jeans,799,10,7990,Net Banking,Bengaluru,17-09-2025,No
+10238,C106,Electronics,Laptop,199,6,1194,UPI,Hyderabad,07-07-2025,Yes
+10239,C195,Home,Table,499,10,4990,Net Banking,Pune,12-12-2025,
+10240,C293,Home,Lamp,199,4,796,UPI,Hyderabad,28-05-2025,No
+10241,C232,Electronics,Mouse,299,7,2093,Cash,Pune,22-08-2025,No
+10242,C282,Clothing,Jacket,799,,7191,Card,Bengaluru,26-09-2025,
+10243,C172,Home,Table,2499,10,24990,UPI,Hyderabad,02-06-2025,No
+10244,C226,Clothing,Shoes,499,4,1996,Cash,Hyderabad,24-12-2025,No
+10245,C217,Home,Table,799,7,5593,Card,Delhi,20-07-2025,Yes
+10246,C152,Electronics,Mouse,,8,11992,UPI,Hyderabad,03-03-2025,Yes
+10247,C114,Clothing,Shirt,,4,3996,Cash,Mumbai,18-09-2025,Yes
+10248,C149,Electronics,Mouse,199,,,Net Banking,Pune,24-07-2025,Yes
+10249,C118,Electronics,Laptop,2499,1,2499,Card,Bengaluru,15-04-2025,
+10250,C252,Clothing,,799,7,5593,UPI,Mumbai,09-08-2025,Yes
+10251,C183,Electronics,,999,5,4995,Card,Delhi,07-01-2025,Yes
+10252,C228,Groceries,Milk,299,-2,1196,UPI,Bengaluru,19-07-2025,Yes
+10253,C192,Electronics,,799,5,3995,Card,Mumbai,15-10-2025,
+10254,C249,Groceries,Milk,199,8,1592,Net Banking,Delhi,23-06-2025,No
+10255,C295,Groceries,Eggs,1499,1,1499,Card,Hyderabad,19-07-2025,No
+10256,C171,Electronics,Phone,199,4,796,Net Banking,Delhi,10-11-2025,Yes
+10257,C285,Clothing,Jacket,799,4,3196,UPI,Mumbai,28-10-2025,Yes
+10258,C131,Clothing,Jeans,999,10,9990,Net Banking,Bengaluru,13-07-2025,Yes
+10259,C111,Clothing,Jacket,1499,4,5996,Net Banking,Bengaluru,24-12-2025,Yes
+10260,C111,Electronics,Phone,299,9,2691,Card,Pune,05-04-2025,Yes
+10261,C146,Electronics,Laptop,,9,,UPI,Bengaluru,15-05-2025,Yes
+10262,C208,Clothing,Jeans,799,2,,Cash,Delhi,20-06-2025,No
+10263,C189,Electronics,Laptop,,1,999,Card,Delhi,07-08-2025,No
+10264,C156,Groceries,,199,4,796,UPI,Pune,27-07-2025,Yes
+10265,C188,Electronics,Headphones,299,10,2990,UPI,Mumbai,08-11-2025,No
+10266,C255,Clothing,Shoes,2499,8,,Card,Delhi,15-02-2025,Yes
+10267,C269,Home,Table,2499,7,17493,Cash,Mumbai,29-06-2025,
+10268,C110,Groceries,Bread,199,,796,Card,Hyderabad,19-08-2025,No
+10269,C149,Home,Lamp,299,9,2691,Card,Hyderabad,01-03-2025,Yes
+10270,C156,Groceries,Milk,2499,6,14994,UPI,Hyderabad,17-08-2025,No
+10271,C141,Clothing,Shirt,999,,999,Net Banking,Bengaluru,20-07-2025,Yes
+10272,C200,Groceries,Rice,299,9,2691,Cash,Hyderabad,30-03-2025,Yes
+10273,C267,Groceries,Milk,799,5,3995,Net Banking,Pune,20-04-2025,Yes
+10274,C262,Electronics,,799,7,,Net Banking,Bengaluru,18-04-2025,No
+10275,C242,Home,Lamp,1499,1,1499,Card,Mumbai,27-02-2025,No
+10276,C226,Home,,299,7,2093,Net Banking,Delhi,14-10-2025,Yes
+10277,C263,Clothing,Shirt,999,5,4995,Card,Mumbai,11-12-2025,Yes
+10278,C251,Clothing,Shoes,299,4,1196,Card,Delhi,23-03-2025,No
+10279,C160,Home,Curtain,499,2,998,Net Banking,Mumbai,01-03-2025,Yes
+10280,C274,Groceries,Bread,999,4,3996,UPI,Pune,30-05-2025,Yes
+10281,C154,Clothing,,1499,10,14990,UPI,Bengaluru,19-01-2025,
+10282,C233,Home,Curtain,799,8,,Card,Pune,06-02-2025,No
+10283,C237,Clothing,Jeans,199,2,398,Net Banking,Delhi,23-11-2025,No
+10284,C182,Clothing,Jeans,799,3,2397,Card,Mumbai,23-06-2025,
+10285,C295,Electronics,Headphones,2499,5,12495,UPI,Hyderabad,08-12-2025,Yes
+10286,C273,Clothing,Jeans,999,6,5994,Card,Delhi,04-04-2025,No
+10287,C157,Groceries,Eggs,299,5,1495,Card,Delhi,27-11-2025,No
+10288,C268,Groceries,Milk,1499,9,13491,Cash,Pune,13-01-2025,Yes
+10289,C101,Electronics,Headphones,199,3,597,Card,Mumbai,31-07-2025,Yes
+10290,C253,Clothing,Jacket,1499,2,2998,UPI,Bengaluru,14-11-2025,
+10291,C284,Home,Table,2499,7,,Card,Delhi,18-02-2025,Yes
+10292,C203,Clothing,Shoes,1499,2,,Cash,Hyderabad,23-06-2025,Yes
+10293,C193,Groceries,Bread,2499,1,,Card,Pune,21-05-2025,No
+10294,C185,Groceries,Bread,999,4,3996,Card,Pune,06-06-2025,Yes
+10295,C297,Clothing,Shirt,199,1,199,UPI,Pune,16-03-2025,No
+10296,C240,Groceries,Rice,2499,6,14994,UPI,Pune,05-03-2025,Yes
+10297,C238,Electronics,Headphones,1499,8,11992,Cash,Bengaluru,21-03-2025,Yes
+10298,C183,Electronics,Laptop,2499,6,14994,Cash,Hyderabad,22-05-2025,No
+10299,C120,Clothing,Jeans,299,6,1794,UPI,Mumbai,19-07-2025,Yes
+10300,C176,Home,Table,199,7,1393,Cash,Mumbai,06-02-2025,Yes
+10301,C216,Clothing,Shoes,1499,3,4497,Cash,Hyderabad,12-07-2025,
+10302,C253,Electronics,Mouse,2499,,24990,Card,Pune,14-02-2025,No
+10303,C189,Clothing,Jeans,-199,4,1996,Net Banking, Mumbai ,05-10-2025,No
+10304,C272,Home,Lamp,299,,897,UPI,Hyderabad,20-08-2025,No
+10305,C200,Groceries,Eggs,2499,8,19992,Cash,Delhi,03-12-2025,Yes
+10306,C244,Clothing,Shoes,499,8,3992,Card,Delhi,04-06-2025,No
+10307,C179,Home,Lamp,199,9,1791,UPI,Mumbai,04-10-2025,Yes
+10308,C256,Clothing,Jacket,499,1,499,Net Banking,Hyderabad,02-05-2025,No
+10309,C167,Electronics,Laptop,199,2,398,UPI,Bengaluru,27-01-2025,No
+10310,C124,Electronics,Mouse,1499,8,11992,UPI,Mumbai,30-10-2025,Yes
+10311,C219,Clothing,Jeans,299,7,2093,Cash,Bengaluru,17-04-2025,Yes
+10312,C110,Clothing,Jacket,999,5,4995,Net Banking,Mumbai,11-04-2025,Yes
+10313,C131,Home,Lamp,999,2,1998,UPI,Pune,06-06-2025,No
+10314,C272,Clothing,Shoes,2499,5,12495,Cash,Bengaluru,15-12-2025,Yes
+10315,C269,Groceries,Bread,299,1,299,Cash,Hyderabad,08-03-2025,No
+10316,C174,Groceries,Eggs,1499,10,14990,Net Banking,Hyderabad,10-05-2025,Yes
+10317,C156,Clothing,Shoes,,10,4990,Net Banking,Bengaluru,26-10-2025,No
+10318,C239,Clothing,Jeans,1499,2,2998,Net Banking,Pune,09-06-2025,No
+10319,C236,Groceries,Milk,199,9,1791,Cash,Pune,05-09-2025,No
+10320,C275,Home,Curtain,2499,,4998,UPI,Mumbai,10-08-2025,
+10321,C238,Home,Chair,499,1,499,Card,Mumbai,19-08-2025,
+10322,C229,Home,,2499,5,12495,Card,Mumbai,09-07-2025,Yes
+10323,C174,Clothing,Jacket,1499,7,10493,Cash,Bengaluru,17-07-2025,Yes
+10324,C283,Electronics,,199,2,398,Card,Hyderabad,22-10-2025,No
+10325,C135,Clothing,Shoes,2499,5,12495,Cash,Delhi,16-03-2025,No
+10326,C168,Clothing,Jacket,-199,6,5994,Card,Delhi,17-09-2025,Yes
+10327,C217,Electronics,Mouse,999,6,5994,Card,Delhi,10-01-2025,No
+10328,C254,Groceries,Milk,199,-1,1791,Net Banking,Bengaluru,18-02-2025,No
+10329,C126,Clothing,Shoes,499,4,1996,UPI,Hyderabad,09-08-2025,Yes
+10330,C199,Electronics,Mouse,2499,7,17493,UPI,Mumbai,11-12-2025,Yes
+10331,C120,Groceries,Milk,499,10,4990,Card,Pune,31-10-2025,Yes
+10332,C111,Home,Lamp,,3,1497,Cash,Mumbai,20-09-2025,No
+10333,C236,Clothing,Jacket,199,1,199,Net Banking,Mumbai,16-02-2025,Yes
+10334,C141,Home,Chair,499,6,,Card,Bengaluru,22-07-2025,No
+10335,C184,Electronics,Laptop,,5,1495,cash,Pune,20-06-2025,
+10336,C203,Electronics,Laptop,1499,6,8994,Net Banking,Mumbai,06-03-2025,
+10337,C135,Electronics,Laptop,999,10,9990,Net Banking,Mumbai,27-12-2025,
+10338,C209,Home,Curtain,1499,3,4497,UPI,Hyderabad,17-09-2025,Yes
+10339,C281,Electronics,Laptop,199,10,1990,Card,Mumbai,20-07-2025,No
+10340,C161,Electronics,Phone,799,4,3196,UPI,Bengaluru,18-04-2025,No
+10341,C297,Electronics,Phone,1499,2,2998,Cash,Bengaluru,03-10-2025,
+10342,C261,Clothing,Jacket,199,6,1194,UPI, Hyderabad ,12-01-2025,No
+10343,C270,Groceries,Milk,299,7,2093,Net Banking,Mumbai,29-04-2025,Yes
+10344,C188,Electronics,Mouse,1499,5,7495,UPI,Mumbai,21-02-2025,Yes
+10345,C204,Electronics,Headphones,999,2,1998,Cash,Delhi,13-08-2025,Yes
+10346,C169,Electronics,Headphones,999,9,8991,Card,Pune,06-03-2025,No
+10347,C279,Clothing,Jeans,1499,7,10493,Card,Delhi,21-01-2025,Yes
+10348,C211,Clothing,Jeans,199,,597,Cash,Bengaluru,06-10-2025,No
+10349,C300,Home,Curtain,799,5,3995,Net Banking,Pune,02-02-2025,Yes
+10350,C267,Home,Table,1499,7,,UPI,Delhi,18-07-2025,Yes
+10351,C262,Home,Lamp,999,1,999,Net Banking,Pune,07-07-2025,No
+10352,C191,Clothing,Shoes,,10,24990,Cash,Hyderabad,18-06-2025,Yes
+10353,C106,Electronics,Headphones,2499,8,19992,Card,Pune,27-03-2025,
+10354,C258,Home,Lamp,199,7,1393,Cash,Mumbai,06-05-2025,No
+10355,C234,Groceries,Bread,199,5,995,Cash,Delhi,27-10-2025,Yes
+10356,C222,Groceries,Eggs,799,-4,1598,Cash,Pune,13-12-2025,No
+10357,C196,Home,Chair,1499,2,2998,Card,Pune,31-10-2025,Yes
+10358,C201,Home,Curtain,2499,1,2499,UPI,Bengaluru,02-12-2025,No
+10359,C291,Groceries,Milk,999,5,4995,Cash,Hyderabad,06-02-2025,Yes
+10360,C179,Groceries,Rice,199,3,597,Cash,Bengaluru,06-10-2025,Yes
+10361,C170,Electronics,Mouse,799,7,5593,Cash,Bengaluru,18-07-2025,Yes
+10362,C260,Groceries,,299,5,1495,Net Banking,Delhi,16-06-2025,Yes
+10363,C199,Clothing,Shoes,499,7,3493,Card,Hyderabad,02-11-2025,No
+10364,C128,Electronics,Phone,299,8,2392,Cash,Delhi,21-08-2025,Yes
+10365,C158,Home,,999,,7992,Card,Pune,20-07-2025,Yes
+10366,C262,Groceries,Milk,199,6,1194,UPI,Pune,26-03-2025,No
+10367,C215,Home,Chair,1499,3,4497,Net Banking,Pune,24-11-2025,No
+10368,C270,Electronics,Headphones,1499,8,11992,Card,Mumbai,02-12-2025,No
+10369,C176,Groceries,Eggs,1499,1,1499,Card,Pune,19-04-2025,
+10370,C268,Electronics,Phone,199,2,398,UPI,Bengaluru,20-09-2025,Yes
+10371,C240,Clothing,,,9,2691,UPI,Hyderabad,16-03-2025,Yes
+10372,C114,Clothing,Shirt,499,8,3992,Net Banking,Hyderabad,25-02-2025,No
+10373,C230,Groceries,Rice,299,6,1794,UPI,Mumbai,03-12-2025,No
+10374,C124,Electronics,Laptop,999,7,6993,Net Banking,Bengaluru,10-07-2025,No
+10375,C290,Electronics,,299,7,2093,Net Banking,Bengaluru,23-06-2025,Yes
+10376,C269,Clothing,Shoes,1499,7,10493,Cash,Delhi,04-01-2025,Yes
+10377,C182,Clothing,Shirt,199,9,1791,card,Mumbai,02-04-2025,Yes
+10378,C123,Home,,499,8,3992,UPI,Pune,16-05-2025,Yes
+10379,C210,Clothing,Shirt,199,5,995,Cash,Hyderabad,15-11-2025,No
+10380,C247,Electronics,Mouse,499,10,4990,UPI,Hyderabad,13-07-2025,No
+10381,C158,Home,Curtain,499,7,3493,Card,Hyderabad,28-10-2025,No
+10382,C108,Home,Curtain,299,9,2691,Card,Mumbai,17-03-2025,No
+10383,C121,Home,Table,199,10,1990,Net Banking,Mumbai,21-10-2025,No
+10384,C215,Electronics,Laptop,2499,6,14994,Net Banking,Delhi,16-02-2025,
+10385,C216,Home,Chair,999,9,8991,Cash,Hyderabad,28-11-2025,Yes
+10386,C163,Groceries,Milk,299,2,598,Net Banking,Pune,04-06-2025,No
+10387,C124,Electronics,Headphones,1499,4,5996,UPI,Delhi,03-05-2025,Yes
+10388,C153,Groceries,Milk,499,6,2994,Card, Pune ,14-01-2025,Yes
+10389,C255,Electronics,Mouse,299,6,1794,Net Banking,Mumbai,30-12-2025,Yes
+10390,C152,Clothing,Shoes,2499,6,14994,Card,Bengaluru,23-11-2025,No
+10391,C103,Home,Chair,299,6,,Net Banking,Mumbai,20-05-2025,No
+10392,C211,Clothing,Jeans,199,9,1791,Card, Pune ,13-08-2025,
+10393,C278,Clothing,Jacket,299,2,598,Net Banking,Delhi,27-10-2025,Yes
+10394,C164,Groceries,Bread,299,10,2990,Cash,Delhi,13-03-2025,Yes
+10395,C126,Home,Chair,199,5,995,Card,Bengaluru,09-08-2025,No
+10396,C206,Clothing,Shirt,199,5,995,Net Banking,Pune,27-05-2025,No
+10397,C230,Home,Lamp,499,9,4491,Cash,Delhi,24-09-2025,No
+10398,C245,Clothing,Shoes,199,-3,597,Cash,Mumbai,23-12-2025,No
+10399,C201,Groceries,Rice,-199,6,,Net Banking,Mumbai,12-10-2025,No
+10400,C253,Electronics,Mouse,2499,2,4998,Net Banking,Mumbai,31-08-2025,No
+10401,C219,Home,Lamp,799,2,1598,Net Banking,Hyderabad,24-02-2025,Yes
+10402,C272,Electronics,Laptop,299,10,2990,Card,Mumbai,21-02-2025,No
+10403,C275,Clothing,Jacket,999,8,7992,Cash,Bengaluru,17-04-2025,No
+10404,C190,Groceries,Bread,999,5,4995,Net Banking,Delhi,01-11-2025,No
+10405,C289,Electronics,Laptop,799,9,7191,Cash,Mumbai,14-11-2025,Yes
+10406,C284,Groceries,Milk,,2,2998,Card,Bengaluru,09-03-2025,Yes
+10407,C224,Clothing,Shoes,199,6,1194,Cash,Bengaluru,11-05-2025,No
+10408,C174,Home,Curtain,2499,8,19992,Card,Bengaluru,11-04-2025,No
+10409,C276,Home,Curtain,2499,9,22491,UPI,Pune,27-07-2025,No
+10410,C219,Clothing,Jeans,1499,2,2998,Net Banking,Hyderabad,15-07-2025,No
+10411,C269,Electronics,Phone,199,2,398,Card,Bengaluru,07-07-2025,No
+10412,C189,Groceries,Rice,1499,1,1499,Card,Delhi,30-10-2025,
+10413,C227,Electronics,Headphones,799,10,7990,Cash,Mumbai,08-01-2025,No
+10414,C197,Electronics,Phone,799,5,3995,Net Banking,Hyderabad,08-09-2025,Yes
+10415,C297,Groceries,Milk,499,9,4491,UPI,Hyderabad,19-06-2025,No
+10416,C258,Electronics,Laptop,199,4,796,Cash,Hyderabad,03-12-2025,No
+10417,C163,Home,Lamp,1499,4,5996,Cash,Delhi,25-07-2025,Yes
+10418,C241,Clothing,Jeans,799,5,3995,UPI,Bengaluru,09-05-2025,Yes
+10419,C218,Groceries,Milk,799,8,6392,UPI,Bengaluru,31-03-2025,Yes
+10420,C248,Clothing,Jacket,999,7,6993,Net Banking,Bengaluru,29-01-2025,
+10421,C174,Electronics,Headphones,299,5,1495,Net Banking,Delhi,22-09-2025,No
+10422,C247,Clothing,Shirt,299,10,2990,UPI,Mumbai,05-08-2025,No
+10423,C221,Clothing,Jacket,199,6,1194,Cash,Pune,10-07-2025,
+10424,C214,Clothing,Shoes,999,1,999,Card,Hyderabad,11-11-2025,No
+10425,C111,Electronics,Phone,199,7,1393,Card,Pune,02-07-2025,No
+10426,C254,Groceries,Milk,199,9,1791,Net Banking,Delhi,20-11-2025,Yes
+10427,C225,Groceries,Bread,999,9,8991,UPI,Delhi,31-07-2025,No
+10428,C141,Clothing,Shoes,199,2,398,UPI,Delhi,11-01-2025,No
+10429,C202,Electronics,Laptop,999,10,9990,UPI,Hyderabad,22-04-2025,Yes
+10430,C265,Clothing,Jacket,799,4,3196,Net Banking, Bengaluru ,19-04-2025,Yes
+10431,C157,Groceries,Eggs,199,9,1791,Card, Hyderabad ,18-11-2025,Yes
+10432,C153,Groceries,Bread,499,2,998,Cash,Delhi,15-11-2025,No
+10433,C241,Groceries,Bread,799,7,5593,Net Banking,Pune,08-09-2025,No
+10434,C197,Electronics,Laptop,299,,2691,Net Banking,Bengaluru,01-04-2025,Yes
+10435,C292,Electronics,Mouse,299,1,299,Card,Delhi,26-12-2025,No
+10436,C261,Clothing,Jeans,299,5,1495,UPI,Hyderabad,18-04-2025,No
+10437,C230,Clothing,Jacket,999,8,7992,Cash,Pune,05-06-2025,Yes
+10438,C255,Clothing,Jacket,1499,4,5996,Cash,Pune,05-07-2025,No
+10439,C248,Home,Chair,499,6,,Cash,Delhi,30-08-2025,Yes
+10440,C173,Home,Table,199,5,995,Net Banking,Pune,16-06-2025,
+10441,C125,Clothing,Shirt,199,8,1592,Net Banking,Hyderabad,11-01-2025,No
+10442,C261,Clothing,,799,6,,UPI,Delhi,28-10-2025,No
+10443,C223,Home,Table,1499,2,2998,Card,Mumbai,01-06-2025,Yes
+10444,C139,Clothing,Shoes,999,5,4995,Cash,Delhi,28-03-2025,Yes
+10445,C179,Groceries,Milk,299,-3,2093,UPI,Mumbai,30-03-2025,No
+10446,C173,Clothing,Shirt,1499,10,14990,Card,Pune,10-07-2025,Yes
+10447,C116,Groceries,Rice,999,2,1998,Net Banking,Pune,12-06-2025,Yes
+10448,C195,Home,Curtain,299,,1794,Cash,Pune,24-03-2025,
+10449,C160,Home,Chair,799,9,7191,UPI,Delhi,03-02-2025,
+10450,C233,Clothing,Jeans,299,4,1196,Net Banking,Delhi,03-06-2025,Yes
+10451,C210,Groceries,Milk,1499,7,10493,Card,Pune,09-12-2025,Yes
+10452,C281,Electronics,Headphones,,2,998,Cash,Hyderabad,24-05-2025,No
+10453,C261,Groceries,Eggs,199,7,1393,Cash,Hyderabad,22-04-2025,
+10454,C132,Home,Table,999,9,8991,Card,Pune,Invalid Date,Yes
+10455,C213,Home,Chair,799,1,799,UPI, Hyderabad ,19-12-2025,No
+10456,C141,Home,Lamp,299,4,1196,UPI,Mumbai,18-09-2025,No
+10457,C257,Electronics,,799,8,6392,UPI,Mumbai,03-12-2025,No
+10458,C236,Electronics,Headphones,499,6,,Cash,Mumbai,04-03-2025,Yes
+10459,C271,Clothing,Jeans,1499,8,11992,UPI,Delhi,08-09-2025,Yes
+10460,C134,Clothing,Shoes,999,10,9990,Card,Mumbai,18-02-2025,No
+10461,C277,Clothing,Shoes,199,3,597,UPI,Hyderabad,29-04-2025,No
+10462,C131,Clothing,Jeans,299,10,,UPI,Bengaluru,28-02-2025,
+10463,C298,Clothing,Jeans,799,7,5593,Cash,Bengaluru,11-09-2025,Yes
+10464,C136,Electronics,Mouse,299,10,2990,UPI,Pune,07-08-2025,Yes
+10465,C221,Clothing,Shoes,199,8,1592,UPI,Bengaluru,16-06-2025,No
+10466,C121,Home,Chair,799,8,6392,Cash,Pune,04-02-2025,No
+10467,C207,Groceries,Eggs,,9,8991,Net Banking,Pune,12-11-2025,Yes
+10468,C195,Groceries,Rice,499,1,499,UPI,Hyderabad,09-04-2025,No
+10469,C253,Electronics,Mouse,299,1,299,UPI,Bengaluru,22-04-2025,Yes
+10470,C126,Clothing,Shirt,,,6392,UPI,Bengaluru,24-02-2025,Yes
+10471,C202,Electronics,Mouse,1499,10,14990,UPI,Bengaluru,14-12-2025,Yes
+10472,C182,Home,Table,799,8,6392,Net Banking,Hyderabad,20-07-2025,
+10473,C288,Groceries,,799,8,6392,UPI,Hyderabad,11-04-2025,Yes
+10474,C184,Home,Lamp,299,6,1794,Cash,Pune,14-04-2025,Yes
+10475,C102,Electronics,Laptop,299,6,1794,Card,Hyderabad,18-08-2025,No
+10476,C170,Home,Lamp,799,,4794,Net Banking,Mumbai,08-07-2025,Yes
+10477,C112,Groceries,Eggs,799,4,3196,Net Banking,Delhi,17-09-2025,No
+10478,C279,Home,Chair,299,8,2392,Net Banking,Bengaluru,16-04-2025,
+10479,C298,Groceries,Rice,999,10,9990,Net Banking,Delhi,01-05-2025,No
+10480,C297,Groceries,Milk,999,1,,Card,Hyderabad,24-12-2025,No
+10481,C276,Groceries,Rice,999,7,6993,UPI,Pune,28-07-2025,No
+10482,C169,Clothing,Jeans,199,-3,1592,Cash,Mumbai,11-05-2025,No
+10483,C188,Clothing,Shirt,1499,6,8994,Card,Pune,12-10-2025,No
+10484,C232,Home,Lamp,499,2,998,Cash,Bengaluru,11-04-2025,Yes
+10485,C236,Home,Curtain,199,8,1592,Net Banking,Pune,11-10-2025,No
+10486,C292,Home,Chair,299,1,299,UPI,Bengaluru,08-12-2025,Yes
+10487,C118,Clothing,Shoes,,3,4497,Cash,Pune,03-01-2025,Yes
+10488,C249,Groceries,Bread,1499,8,11992,Net Banking,Pune,06-08-2025,No
+10489,C251,Groceries,Milk,1499,4,5996,Card,Hyderabad,11-03-2025,No
+10490,C174,Clothing,Shirt,1499,3,4497,UPI,Pune,28-02-2025,Yes
+10491,C180,Clothing,,1499,1,1499,UPI,Mumbai,31-01-2025,No
+10492,C293,Clothing,Jacket,,6,2994,UPI,Pune,28-03-2025,Yes
+10493,C177,Electronics,Mouse,299,4,1196,Card,Pune,03-09-2025,Yes
+10494,C123,Home,Chair,,4,9996,Net Banking,Delhi,15-06-2025,Yes
+10495,C214,Electronics,Phone,999,1,999,net banking,Pune,15-04-2025,Yes
+10496,C294,Groceries,Eggs,2499,2,,UPI,Hyderabad,03-02-2025,No
+10497,C250,Groceries,Rice,2499,7,17493,Net Banking,Hyderabad,21-06-2025,No
+10498,C241,Home,,999,9,8991,Cash,Pune,09-12-2025,
+10499,C189,Clothing,Jeans,,2,2998,UPI,Bengaluru,14-11-2025,Yes
+10500,C168,Home,Table,799,6,4794,Cash,Delhi,20-06-2025,Yes
+10501,C161,Home,Curtain,299,8,2392,UPI,Delhi,10-07-2025,Yes
+10502,C243,Clothing,Jacket,1499,4,5996,Card,Pune,10-01-2025,No
+10503,C130,Groceries,Bread,999,4,3996,UPI,Hyderabad,14-02-2025,Yes
+10504,C107,Home,Curtain,299,5,1495,Net Banking,Mumbai,06-04-2025,No
+10505,C284,Electronics,Phone,199,6,1194,Net Banking,Mumbai,19-07-2025,Yes
+10506,C247,Home,Curtain,799,7,5593,Card,Delhi,08-02-2025,
+10507,C147,Groceries,Bread,1499,8,11992,Net Banking,Pune,01-01-2025,No
+10508,C198,Clothing,Shirt,499,3,1497,UPI,Hyderabad,09-08-2025,Yes
+10509,C228,Home,Lamp,499,3,1497,Card, Pune ,11-07-2025,No
+10510,C217,Electronics,Mouse,199,9,1791,Card,Pune,08-10-2025,Yes
+10511,C142,Electronics,Laptop,199,1,199,Card,Mumbai,14-12-2025,
+10512,C132,Home,Lamp,1499,6,8994,UPI,Hyderabad,18-03-2025,
+10513,C277,Home,Chair,999,3,2997,Net Banking,Hyderabad,01-04-2025,Yes
+10514,C178,Electronics,,,5,995,Card,Pune,16-04-2025,Yes
+10515,C167,Clothing,Jacket,299,2,598,Net Banking,Bengaluru,18-11-2025,No
+10516,C261,Electronics,Mouse,299,6,,Cash,Delhi,03-02-2025,Yes
+10517,C186,Clothing,Shoes,499,5,2495,Cash,Hyderabad,19-05-2025,No
+10518,C161,Home,Curtain,1499,8,11992,Cash, Bengaluru ,03-12-2025,Yes
+10519,C295,Home,Curtain,499,6,2994,Cash,Hyderabad,30-04-2025,Yes
+10520,C154,Clothing,Shirt,199,6,1194,Card,Mumbai,23-02-2025,No
+10521,C298,Groceries,Milk,2499,1,2499,Cash,Delhi,08-06-2025,Yes
+10522,C238,Electronics,Phone,1499,5,7495,Cash,Pune,06-06-2025,Yes
+10523,C234,Electronics,Phone,999,7,6993,UPI,Delhi,21-02-2025,No
+10524,C266,Groceries,Rice,2499,8,19992,Net Banking,Pune,30-01-2025,No
+10525,C194,Home,Lamp,2499,3,7497,Card,Delhi,12-01-2025,No
+10526,C152,Clothing,Jeans,1499,9,13491,UPI,Delhi,01-11-2025,
+10527,C187,Electronics,Headphones,499,9,4491,Cash,Delhi,29-04-2025,
+10528,C120,Groceries,Eggs,1499,9,13491,Card,Hyderabad,03-07-2025,Yes
+10529,C279,Clothing,Shirt,1499,6,,UPI,Mumbai,12-04-2025,Yes
+10530,C166,Electronics,Mouse,799,10,7990,UPI,Delhi,15-10-2025,No
+10531,C198,Groceries,Milk,2499,2,4998,Net Banking,Pune,03-01-2025,No
+10532,C276,Groceries,Eggs,799,,7191,UPI,Pune,30-05-2025,No
+10533,C132,Clothing,Jeans,299,10,2990,UPI,Bengaluru,19-07-2025,No
+10534,C107,Electronics,Mouse,799,6,4794,UPI,Mumbai,03-12-2025,No
+10535,C287,Groceries,Rice,299,10,2990,Cash,Bengaluru,Invalid Date,Yes
+10536,C140,Electronics,Laptop,299,2,598,Net Banking,Bengaluru,26-01-2025,Yes
+10537,C257,Clothing,Jacket,-199,7,17493,Card,Delhi,01-11-2025,Yes
+10538,C279,Electronics,Mouse,499,9,4491,Card,Mumbai,16-12-2025,Yes
+10539,C130,Electronics,Headphones,199,9,1791,Card,Pune,11-07-2025,
+10540,C253,Home,Curtain,299,10,2990,Net Banking,Hyderabad,12-06-2025,No
+10541,C216,Clothing,Jeans,1499,5,7495,Card,Hyderabad,25-10-2025,No
+10542,C269,Home,Table,299,6,1794,Cash,Mumbai,13-01-2025,No
+10543,C146,Electronics,Phone,799,10,7990,Card,Mumbai,14-04-2025,Yes
+10544,C210,Electronics,Phone,2499,5,12495,UPI,Delhi,22-08-2025,No
+10545,C120,Home,Curtain,1499,4,5996,Cash,Hyderabad,24-09-2025,No
+10546,C259,Home,,299,3,897,UPI, Delhi ,02-11-2025,No
+10547,C199,Electronics,Phone,499,7,3493,Cash,Pune,26-10-2025,
+10548,C137,Home,Lamp,1499,4,5996,Card,Bengaluru,31-03-2025,Yes
+10549,C253,Electronics,Phone,299,,299,Cash,Mumbai,05-02-2025,Yes
+10550,C172,Home,,999,8,7992,Cash,Bengaluru,02-06-2025,Yes
+10551,C148,Electronics,Laptop,299,3,897,Cash,Bengaluru,27-01-2025,No
+10552,C208,Groceries,Eggs,2499,6,14994,Cash,Mumbai,02-04-2025,Yes
+10553,C120,Home,Table,799,8,,Cash,Mumbai,13-05-2025,No
+10554,C149,Electronics,Headphones,799,4,3196,Card,Bengaluru,30-06-2025,No
+10555,C235,Electronics,Laptop,499,5,2495,Cash,Hyderabad,26-04-2025,
+10556,C203,Groceries,Eggs,999,1,999,UPI,Hyderabad,13-10-2025,No
+10557,C175,Groceries,Bread,299,6,1794,Card,Bengaluru,18-09-2025,Yes
+10558,C242,Groceries,Rice,,,2997,cash,Hyderabad,15-09-2025,No
+10559,C169,Groceries,Bread,999,8,7992,Cash,Delhi,16-05-2025,No
+10560,C196,Clothing,Jacket,199,1,199,Cash,Hyderabad,29-04-2025,No
+10561,C207,Electronics,Mouse,2499,-4,4998,UPI,Bengaluru,16-03-2025,Yes
+10562,C194,Home,Lamp,499,,4990,Card,Delhi,20-06-2025,
+10563,C294,Clothing,Jeans,199,10,1990,Net Banking,Hyderabad,04-02-2025,Yes
+10564,C136,Clothing,Jacket,499,3,1497,Net Banking,Hyderabad,14-05-2025,
+10565,C269,Home,Chair,299,6,1794,Net Banking,Mumbai,14-04-2025,No
+10566,C150,Electronics,Laptop,999,1,999,Card,Hyderabad,25-07-2025,No
+10567,C300,Groceries,Eggs,999,8,7992,Net Banking,Pune,03-11-2025,Yes
+10568,C119,Clothing,Shoes,,1,,UPI,Bengaluru,13-03-2025,Yes
+10569,C284,Electronics,Headphones,2499,1,2499,Net Banking,Mumbai,28-04-2025,No
+10570,C186,Groceries,Bread,299,,1196,card,Mumbai,10-05-2025,Yes
+10571,C129,Clothing,Shirt,299,4,1196,Cash,Mumbai,14-02-2025,Yes
+10572,C277,Home,Curtain,199,2,398,Net Banking,Delhi,12-10-2025,Yes
+10573,C293,Electronics,Laptop,999,8,7992,Cash,Pune,11-03-2025,Yes
+10574,C101,Electronics,Headphones,799,5,3995,Cash,Pune,Invalid Date,Yes
+10575,C238,Electronics,Headphones,499,5,2495,UPI,Mumbai,29-11-2025,No
+10576,C284,Groceries,Eggs,499,4,1996,Net Banking,Bengaluru,30-08-2025,Yes
+10577,C200,Clothing,,199,,1791,Net Banking,Pune,12-09-2025,No
+10578,C241,Clothing,Shirt,2499,5,12495,Card,Mumbai,11-07-2025,Yes
+10579,C230,Clothing,Shirt,299,-3,1794,Cash,Mumbai,26-09-2025,No
+10580,C260,Clothing,Shoes,2499,1,2499,Cash,Hyderabad,06-05-2025,Yes
+10581,C145,Groceries,Rice,799,3,2397,cash,Mumbai,25-03-2025,No
+10582,C152,Clothing,Jacket,1499,,14990,UPI,Bengaluru,09-10-2025,Yes
+10583,C163,Clothing,Shoes,999,3,2997,Net Banking,Pune,13-11-2025,Yes
+10584,C258,Electronics,Phone,199,9,1791,Net Banking,Mumbai,21-12-2025,No
+10585,C153,Home,Chair,299,3,897,Cash,Bengaluru,12-01-2025,No
+10586,C203,Clothing,Jacket,499,9,4491,UPI,Bengaluru,06-05-2025,No
+10587,C270,Clothing,Jacket,499,4,1996,Card,Bengaluru,25-01-2025,No
+10588,C137,Electronics,Phone,999,8,7992,Cash,Pune,12-01-2025,
+10589,C263,Clothing,Shoes,1499,,2998,Card,Delhi,24-06-2025,Yes
+10590,C153,Home,Chair,999,6,5994,Net Banking,Hyderabad,16-12-2025,Yes
+10591,C189,Groceries,Eggs,2499,10,24990,net banking,Delhi,04-02-2025,Yes
+10592,C188,Groceries,Milk,1499,6,,UPI,Delhi,14-12-2025,No
+10593,C286,Home,Chair,999,2,1998,UPI,Delhi,14-08-2025,
+10594,C153,Electronics,Mouse,299,8,2392,UPI,Mumbai,07-01-2025,Yes
+10595,C122,Clothing,Jeans,499,7,3493,Cash,Pune,13-07-2025,Yes
+10596,C204,Clothing,Shirt,199,5,,UPI,Hyderabad,03-07-2025,Yes
+10597,C189,Home,Chair,2499,10,24990,Card,Mumbai,19-05-2025,No
+10598,C224,Groceries,Rice,799,2,1598,Cash,Hyderabad,08-04-2025,Yes
+10599,C268,Groceries,Bread,2499,10,24990,Net Banking,Bengaluru,22-08-2025,No
+10600,C238,Groceries,Milk,299,3,897,Net Banking,Hyderabad,20-09-2025,Yes
+10601,C234,Groceries,Rice,999,4,3996,card,Delhi,23-02-2025,
+10602,C289,Groceries,Milk,199,4,796,UPI,Delhi,16-08-2025,
+10603,C194,Electronics,Laptop,2499,7,17493,Net Banking,Pune,03-11-2025,Yes
+10604,C142,Electronics,Headphones,999,10,,Card,Pune,23-06-2025,No
+10605,C256,Home,Curtain,999,7,6993,Net Banking,Mumbai,17-06-2025,No
+10606,C173,Clothing,Shoes,299,3,897,Cash,Mumbai,08-09-2025,Yes
+10607,C192,Groceries,Bread,199,9,1791,UPI,Pune,21-01-2025,No
+10608,C211,Electronics,Headphones,999,10,9990,Net Banking,Mumbai,20-01-2025,Yes
+10609,C247,Home,,799,8,6392,UPI,Bengaluru,15-01-2025,Yes
+10610,C161,Home,Table,499,1,499,Cash,Pune,15-11-2025,Yes
+10611,C209,Home,Curtain,299,,1794,Cash,Delhi,15-07-2025,Yes
+10612,C245,Home,Curtain,199,9,1791,Cash,Pune,06-05-2025,No
+10613,C190,Electronics,Headphones,799,9,7191,Card,Pune,14-05-2025,No
+10614,C238,Electronics,Mouse,999,1,999,Card,Pune,23-09-2025,No
+10615,C163,Groceries,Rice,499,2,998,UPI,Pune,16-11-2025,No
+10616,C271,Electronics,Laptop,1499,7,10493,UPI, Pune ,09-09-2025,Yes
+10617,C113,Electronics,Mouse,499,4,1996,Net Banking,Mumbai,22-07-2025,Yes
+10618,C180,Groceries,Rice,,6,8994,UPI,Bengaluru,11-07-2025,Yes
+10619,C118,Electronics,Mouse,299,6,1794,UPI,Pune,15-09-2025,Yes
+10620,C274,Home,Table,2499,10,24990,UPI,Pune,18-11-2025,
+10621,C134,Clothing,Jacket,499,6,2994,Cash,Hyderabad,24-12-2025,No
+10622,C259,Home,Lamp,299,2,598,UPI,Delhi,23-08-2025,No
+10623,C282,Electronics,Laptop,499,5,2495,Net Banking,Bengaluru,13-05-2025,No
+10624,C266,Clothing,Jacket,499,3,1497,UPI,Pune,26-12-2025,Yes
+10625,C190,Electronics,Phone,199,4,796,Net Banking,Pune,31-08-2025,No
+10626,C159,Electronics,Headphones,799,3,2397,Cash,Delhi,19-06-2025,No
+10627,C225,Clothing,Shirt,1499,9,13491,Net Banking,Hyderabad,22-09-2025,Yes
+10628,C255,Groceries,,2499,10,24990,Net Banking,Delhi,28-09-2025,
+10629,C103,Clothing,Jacket,2499,,2499,UPI,Delhi,15-02-2025,Yes
+10630,C243,Electronics,Laptop,199,7,1393,UPI,Delhi,09-09-2025,Yes
+10631,C139,Groceries,Bread,,,3992,UPI,Delhi,19-09-2025,No
+10632,C296,Electronics,Mouse,299,10,2990,card,Delhi,15-12-2025,Yes
+10633,C246,Home,Curtain,799,8,6392,Card,Bengaluru,11-09-2025,Yes
+10634,C227,Groceries,,-199,10,4990,Net Banking,Delhi,19-06-2025,Yes
+10635,C113,Home,Table,999,5,4995,Card,Pune,17-02-2025,No
+10636,C235,Electronics,Mouse,199,9,1791,Net Banking,Pune,27-09-2025,No
+10637,C230,Electronics,Laptop,199,8,1592,Cash,Pune,17-02-2025,
+10638,C295,Electronics,Headphones,2499,9,22491,UPI,Pune,27-05-2025,No
+10639,C247,Clothing,Shirt,,6,5994,UPI,Bengaluru,16-06-2025,Yes
+10640,C155,Groceries,Eggs,999,4,3996,Net Banking,Hyderabad,01-09-2025,No
+10641,C106,Electronics,Laptop,999,10,9990,UPI,Delhi,17-09-2025,
+10642,C139,Home,Chair,999,9,8991,Net Banking,Pune,02-04-2025,No
+10643,C145,Home,Lamp,1499,4,5996,Net Banking,Mumbai,21-09-2025,No
+10644,C231,Clothing,Shoes,199,1,199,Card,Delhi,19-07-2025,Yes
+10645,C109,Electronics,Headphones,999,6,5994,UPI,Pune,03-03-2025,Yes
+10646,C138,Clothing,Jacket,999,4,3996,Cash,Bengaluru,16-07-2025,No
+10647,C225,Electronics,Phone,999,2,1998,Cash,Delhi,21-07-2025,No
+10648,C248,Home,Lamp,299,,2990,Net Banking,Hyderabad,10-02-2025,Yes
+10649,C182,Home,Table,499,6,2994,Cash,Delhi,31-01-2025,Yes
+10650,C293,Clothing,Jacket,799,8,6392,Cash,Mumbai,13-07-2025,Yes
+10651,C129,Groceries,Rice,1499,,7495,Card,Delhi,04-03-2025,Yes
+10652,C184,Home,Table,999,5,4995,Net Banking,Pune,20-04-2025,Yes
+10653,C222,Groceries,Milk,,3,1497,Net Banking,Mumbai,22-03-2025,Yes
+10654,C163,Clothing,Shoes,299,5,1495,UPI,Bengaluru,01-06-2025,No
+10655,C254,Electronics,Mouse,1499,6,8994,UPI,Delhi,10-11-2025,Yes
+10656,C149,Electronics,Mouse,499,2,998,Net Banking,Bengaluru,25-05-2025,No
+10657,C106,Clothing,Shoes,499,1,499,Card,Hyderabad,11-11-2025,No
+10658,C148,Clothing,Jeans,1499,1,1499,Net Banking,Hyderabad,15-12-2025,No
+10659,C278,Home,Lamp,199,8,1592,Cash,Delhi,09-01-2025,Yes
+10660,C222,Home,Table,999,7,6993,UPI,Pune,13-05-2025,
+10661,C195,Home,Lamp,,5,7495,Cash,Hyderabad,11-04-2025,No
+10662,C203,Electronics,Phone,299,2,598,Net Banking,Delhi,01-05-2025,No
+10663,C163,Groceries,Milk,499,8,3992,Card,Delhi,22-10-2025,No
+10664,C216,Clothing,Jeans,799,3,2397,UPI,Hyderabad,13-01-2025,No
+10665,C263,Clothing,Shoes,299,3,897,UPI,Delhi,16-04-2025,No
+10666,C201,Clothing,Shirt,499,3,1497,Cash,Delhi,21-05-2025,No
+10667,C161,Clothing,Shoes,299,8,2392,Card,Mumbai,15-02-2025,Yes
+10668,C238,Home,Chair,799,1,799,UPI,Bengaluru,29-12-2025,
+10669,C213,Home,Lamp,1499,5,7495,UPI,Mumbai,08-08-2025,Yes
+10670,C300,Groceries,Bread,999,9,8991,UPI,Bengaluru,30-03-2025,No
+10671,C135,Home,Curtain,799,5,3995,Net Banking,Hyderabad,17-09-2025,Yes
+10672,C145,Groceries,Bread,2499,3,7497,Card,Bengaluru,31-12-2025,Yes
+10673,C187,Electronics,Phone,499,2,998,Card,Hyderabad,24-10-2025,Yes
+10674,C299,Groceries,,999,4,3996,Net Banking,Pune,12-04-2025,Yes
+10675,C232,Electronics,Mouse,299,4,1196,Card,Bengaluru,04-06-2025,Yes
+10676,C181,Clothing,Shirt,199,4,796,Net Banking,Mumbai,07-12-2025,No
+10677,C278,Electronics,Mouse,999,8,7992,Net Banking,Bengaluru,16-09-2025,
+10678,C193,Home,Lamp,1499,10,14990,UPI,Pune,14-01-2025,No
+10679,C216,Clothing,Jacket,499,2,,Net Banking,Hyderabad,21-07-2025,
+10680,C286,Electronics,Headphones,499,7,3493,Net Banking,Mumbai,10-05-2025,Yes
+10681,C226,Clothing,Shoes,299,8,2392,UPI,Hyderabad,02-12-2025,No
+10682,C176,Groceries,Rice,999,5,4995,UPI,Mumbai,11-05-2025,Yes
+10683,C148,Electronics,Laptop,799,,3995,UPI,Bengaluru,18-05-2025,No
+10684,C223,Groceries,Bread,299,10,2990,Cash,Delhi,18-06-2025,No
+10685,C284,Clothing,Jacket,2499,6,14994,Cash,Mumbai,02-07-2025,No
+10686,C246,Electronics,Laptop,799,3,2397,Card,Bengaluru,27-07-2025,Yes
+10687,C102,Clothing,Shirt,199,8,1592,Card,Bengaluru,05-05-2025,Yes
+10688,C260,Clothing,Jeans,299,-3,2691,Cash,Hyderabad,14-04-2025,
+10689,C217,Groceries,Bread,299,10,2990,Cash,Delhi,29-12-2025,No
+10690,C277,Home,Table,2499,4,9996,Net Banking,Delhi,14-10-2025,
+10691,C199,Groceries,Milk,199,5,995,Cash,Pune,Invalid Date,No
+10692,C273,Electronics,Laptop,1499,6,8994,Cash,Mumbai,15-05-2025,No
+10693,C102,Home,Curtain,199,9,,Net Banking,Hyderabad,22-11-2025,
+10694,C207,Electronics,,299,6,1794,card,Pune,25-02-2025,Yes
+10695,C240,Groceries,Rice,499,10,4990,Card,Delhi,25-06-2025,Yes
+10696,C274,Groceries,Milk,999,3,2997,Cash,Bengaluru,30-07-2025,No
+10697,C227,Home,Curtain,199,3,597,Cash,Mumbai,15-06-2025,No
+10698,C214,Clothing,Jeans,1499,10,14990,Cash,Mumbai,01-02-2025,Yes
+10699,C222,Home,Table,499,9,4491,UPI,Bengaluru,11-04-2025,Yes
+10700,C300,Clothing,Jacket,299,1,299,UPI,Bengaluru,17-07-2025,No
+10701,C158,Electronics,,499,,3493,UPI,Hyderabad,10-05-2025,No
+10702,C212,Electronics,Headphones,2499,10,24990,Cash,Pune,06-03-2025,No
+10703,C181,Groceries,Milk,1499,10,14990,upi,Hyderabad,20-10-2025,
+10704,C286,Groceries,Bread,2499,2,4998,UPI,Delhi,01-01-2025,Yes
+10705,C118,Clothing,Jeans,999,10,9990,Net Banking,Bengaluru,24-02-2025,Yes
+10706,C294,Clothing,Shirt,999,8,7992,Net Banking,Bengaluru,09-03-2025,No
+10707,C234,Clothing,Jacket,-199,5,12495,Cash,Bengaluru,16-02-2025,
+10708,C238,Electronics,Headphones,499,5,2495,Cash,Mumbai,25-03-2025,No
+10709,C199,Groceries,Eggs,199,5,995,Cash,Hyderabad,20-05-2025,Yes
+10710,C135,Home,Chair,299,4,1196,Card,Pune,22-02-2025,Yes
+10711,C144,Groceries,Milk,799,9,7191,Card,Pune,23-08-2025,Yes
+10712,C270,Electronics,,199,9,1791,Net Banking,Hyderabad,23-11-2025,No
+10713,C115,Home,Curtain,999,5,4995,UPI,Hyderabad,29-12-2025,Yes
+10714,C206,Home,Chair,499,4,,Cash,Hyderabad,09-03-2025,No
+10715,C193,Clothing,Jeans,999,6,5994,UPI,Hyderabad,08-06-2025,No
+10716,C226,Home,Curtain,1499,3,,UPI,Delhi,10-06-2025,Yes
+10717,C232,Groceries,Rice,499,8,3992,UPI,Bengaluru,27-02-2025,No
+10718,C187,Home,Table,799,3,2397,Net Banking,Pune,23-06-2025,No
+10719,C176,Groceries,Rice,499,4,1996,UPI,Bengaluru,19-10-2025,
+10720,C261,Home,Lamp,2499,2,4998,Net Banking,Mumbai,26-05-2025,Yes
+10721,C270,Home,Table,199,2,398,UPI,Delhi,02-05-2025,Yes
+10722,C183,Groceries,Rice,499,,2495,Cash,Hyderabad,05-09-2025,No
+10723,C222,Groceries,Rice,-199,2,598,Net Banking, Delhi ,19-07-2025,Yes
+10724,C190,Groceries,Eggs,999,10,9990,Card,Hyderabad,24-05-2025,Yes
+10725,C236,Home,Curtain,799,4,3196,Cash,Hyderabad,09-11-2025,Yes
+10726,C217,Groceries,Eggs,999,1,999,UPI,Hyderabad,10-10-2025,Yes
+10727,C191,Clothing,Shoes,999,10,9990,Net Banking,Pune,05-03-2025,No
+10728,C136,Electronics,Laptop,799,9,7191,Net Banking,Mumbai,25-05-2025,Yes
+10729,C128,Groceries,,999,5,4995,Card,Mumbai,19-06-2025,Yes
+10730,C275,Electronics,Phone,799,1,799,Cash,Delhi,29-06-2025,
+10731,C214,Home,Chair,499,8,3992,Card,Hyderabad,26-05-2025,No
+10732,C248,Home,Lamp,2499,9,22491,Net Banking,Hyderabad,28-05-2025,Yes
+10733,C115,Groceries,Rice,499,8,3992,UPI,Pune,23-10-2025,No
+10734,C165,Electronics,Mouse,199,6,1194,Net Banking,Pune,09-11-2025,Yes
+10735,C197,Clothing,Shoes,1499,4,5996,Cash,Hyderabad,08-08-2025,No
+10736,C300,Clothing,Shirt,1499,10,14990,UPI,Hyderabad,25-03-2025,Yes
+10737,C257,Electronics,Laptop,999,,2997,Cash,Bengaluru,05-12-2025,Yes
+10738,C281,Electronics,Mouse,799,7,5593,Cash,Delhi,24-02-2025,Yes
+10739,C174,Home,Curtain,,6,5994,Net Banking,Hyderabad,06-12-2025,Yes
+10740,C132,Home,Lamp,-199,9,4491,Net Banking,Hyderabad,05-06-2025,
+10741,C260,Electronics,Laptop,299,2,598,UPI,Pune,20-10-2025,Yes
+10742,C292,Clothing,Jacket,2499,1,2499,UPI,Mumbai,01-12-2025,Yes
+10743,C216,Groceries,Eggs,799,5,3995,Card,Hyderabad,24-10-2025,No
+10744,C168,Groceries,Rice,299,1,299,Cash,Bengaluru,23-05-2025,Yes
+10745,C253,Home,Curtain,499,8,3992,Card,Bengaluru,23-03-2025,Yes
+10746,C275,Electronics,Headphones,799,,7990,Cash,Mumbai,19-08-2025,No
+10747,C190,Electronics,Headphones,199,9,1791,Net Banking,Mumbai,12-02-2025,Yes
+10748,C224,Clothing,Shoes,799,4,3196,Card,Hyderabad,14-11-2025,Yes
+10749,C290,Home,Curtain,799,1,799,Cash,Hyderabad,01-01-2025,Yes
+10750,C127,Clothing,Shirt,999,2,1998,UPI,Hyderabad,17-12-2025,No
+10751,C224,Home,Lamp,799,3,2397,Cash,Bengaluru,13-04-2025,Yes
+10752,C232,Clothing,,1499,10,14990,UPI,Hyderabad,05-03-2025,Yes
+10753,C293,Groceries,Eggs,299,4,1196,UPI,Mumbai,07-10-2025,No
+10754,C205,Groceries,Eggs,199,7,1393,Cash,Pune,04-03-2025,No
+10755,C290,Home,Lamp,999,5,4995,Card,Bengaluru,03-06-2025,No
+10756,C227,Electronics,Laptop,299,9,2691,UPI,Bengaluru,17-04-2025,No
+10757,C190,Clothing,Shoes,499,6,2994,Card,Mumbai,01-04-2025,No
+10758,C171,Home,Lamp,2499,7,17493,Net Banking,Mumbai,05-06-2025,No
+10759,C195,Groceries,,199,7,1393,UPI,Pune,11-08-2025,No
+10760,C121,Home,Curtain,299,1,299,Card,Delhi,14-06-2025,No
+10761,C177,Home,Lamp,499,1,499,Net Banking,Mumbai,11-07-2025,
+10762,C272,Clothing,Shoes,2499,7,17493,Net Banking,Pune,01-06-2025,Yes
+10763,C251,Clothing,,999,10,9990,Card,Mumbai,14-03-2025,No
+10764,C120,Electronics,,1499,10,14990,UPI,Hyderabad,18-02-2025,Yes
+10765,C107,Groceries,Rice,499,4,1996,UPI,Hyderabad,30-08-2025,Yes
+10766,C208,Clothing,Shirt,999,2,1998,Net Banking,Mumbai,13-03-2025,Yes
+10767,C193,Clothing,Shoes,999,8,7992,Net Banking,Mumbai,20-05-2025,
+10768,C215,Groceries,Eggs,199,5,995,Net Banking,Bengaluru,27-01-2025,Yes
+10769,C204,Home,Curtain,199,2,398,Net Banking,Delhi,07-03-2025,No
+10770,C300,Clothing,Jacket,299,8,2392,Net Banking,Pune,27-01-2025,Yes
+10771,C243,Clothing,,999,10,9990,Net Banking,Delhi,18-04-2025,
+10772,C285,Groceries,Rice,499,1,499,Cash,Bengaluru,21-07-2025,No
+10773,C163,Groceries,Bread,499,10,4990,Net Banking,Pune,28-08-2025,
+10774,C144,Clothing,Shoes,499,2,998,UPI,Mumbai,02-06-2025,No
+10775,C167,Home,Curtain,999,9,8991,UPI,Delhi,12-09-2025,Yes
+10776,C214,Home,Table,999,9,8991,Card,Hyderabad,03-02-2025,No
+10777,C227,Electronics,Laptop,199,9,1791,Net Banking,Pune,06-02-2025,No
+10778,C248,Clothing,,499,5,2495,Card,Pune,25-01-2025,Yes
+10779,C176,Clothing,Shirt,2499,4,9996,Card,Pune,01-09-2025,
+10780,C148,Home,Curtain,,5,1495,Card,Mumbai,27-06-2025,Yes
+10781,C218,Clothing,Shirt,999,3,2997,UPI,Bengaluru,17-03-2025,Yes
+10782,C251,Home,Lamp,499,8,3992,Net Banking,Bengaluru,17-12-2025,No
+10783,C123,Home,Lamp,499,1,,UPI,Pune,19-12-2025,No
+10784,C142,Home,,999,2,,Net Banking,Mumbai,04-02-2025,No
+10785,C128,Electronics,Headphones,199,9,1791,Net Banking,Hyderabad,27-10-2025,Yes
+10786,C288,Groceries,Milk,299,-4,1495,Cash,Pune,10-10-2025,No
+10787,C194,Clothing,Shoes,1499,10,14990,Cash,Bengaluru,17-04-2025,No
+10788,C141,Groceries,Eggs,999,10,,Net Banking,Pune,12-04-2025,Yes
+10789,C279,Home,Table,499,9,4491,Card,Hyderabad,10-01-2025,Yes
+10790,C140,Home,Curtain,299,4,1196,Card,Mumbai,14-07-2025,No
+10791,C190,Clothing,Jeans,799,3,2397,UPI,Hyderabad,21-10-2025,No
+10792,C214,Groceries,Bread,1499,10,14990,UPI,Delhi,05-05-2025,Yes
+10793,C206,Electronics,Laptop,199,2,398,Card,Delhi,24-02-2025,
+10794,C277,Electronics,Mouse,1499,9,13491,UPI,Pune,11-10-2025,No
+10795,C160,Home,Table,799,6,4794,Card,Mumbai,08-06-2025,
+10796,C187,Clothing,Shoes,799,5,3995,Cash,Pune,17-07-2025,No
+10797,C189,Groceries,Eggs,999,8,7992,Net Banking,Bengaluru,27-12-2025,No
+10798,C236,Groceries,Eggs,799,1,799,Card,Bengaluru,03-09-2025,Yes
+10799,C295,Electronics,Laptop,299,5,1495,Cash,Bengaluru,01-04-2025,Yes
+10800,C223,Home,Lamp,1499,2,2998,UPI,Bengaluru,17-08-2025,
+10801,C158,Electronics,Headphones,499,9,4491,UPI,Pune,13-08-2025,
+10802,C105,Groceries,Bread,799,8,6392,UPI,Pune,24-08-2025,No
+10803,C241,Groceries,Rice,799,4,3196,Net Banking,Pune,09-12-2025,Yes
+10804,C109,Home,Curtain,1499,,11992,UPI,Mumbai,27-03-2025,No
+10805,C121,Clothing,Shirt,999,4,3996,Cash,Pune,06-02-2025,No
+10806,C136,Clothing,Jacket,199,7,1393,Cash,Pune,14-01-2025,No
+10807,C292,Home,,499,6,2994,Net Banking,Pune,20-05-2025,Yes
+10808,C283,Groceries,Rice,299,1,299,Net Banking,Mumbai,14-10-2025,Yes
+10809,C135,Electronics,Phone,,8,1592,UPI,Mumbai,29-12-2025,Yes
+10810,C274,Groceries,Eggs,999,10,9990,UPI,Delhi,01-10-2025,
+10811,C240,Electronics,Mouse,199,8,1592,Net Banking,Delhi,10-01-2025,No
+10812,C273,Groceries,Eggs,999,,3996,UPI,Hyderabad,05-09-2025,
+10813,C250,Clothing,Jacket,199,4,796,Card,Hyderabad,25-07-2025,
+10814,C185,Clothing,Jacket,799,3,2397,Cash,Delhi,24-04-2025,Yes
+10815,C202,Clothing,Jacket,299,10,2990,Card,Hyderabad,04-03-2025,No
+10816,C224,Electronics,Mouse,999,10,,UPI,Mumbai,07-02-2025,Yes
+10817,C272,Clothing,Jeans,2499,,14994,Card,Mumbai,02-09-2025,Yes
+10818,C161,Electronics,Mouse,1499,5,7495,Card,Delhi,27-12-2025,Yes
+10819,C168,Home,Chair,2499,1,,Cash,Delhi,26-03-2025,Yes
+10820,C244,Groceries,Milk,499,6,2994,Card,Mumbai,16-11-2025,No
+10821,C169,Home,,199,5,995,Net Banking,Mumbai,29-09-2025,Yes
+10822,C193,Home,Chair,499,5,2495,Cash,Pune,24-02-2025,Yes
+10823,C255,Clothing,Jeans,499,10,4990,Cash,Delhi,25-08-2025,Yes
+10824,C134,Home,Curtain,2499,9,22491,Cash,Delhi,18-04-2025,Yes
+10825,C194,Clothing,Jeans,2499,2,4998,card,Mumbai,01-01-2025,Yes
+10826,C257,Clothing,Shoes,199,4,796,Net Banking,Bengaluru,18-09-2025,Yes
+10827,C137,Clothing,Shoes,199,2,398,Card,Pune,05-05-2025,Yes
+10828,C120,Electronics,Mouse,199,10,1990,Cash,Mumbai,04-11-2025,No
+10829,C256,Home,Chair,999,,999,UPI,Hyderabad,10-08-2025,
+10830,C114,Home,Curtain,499,6,2994,Cash,Bengaluru,27-08-2025,Yes
+10831,C267,Electronics,Mouse,999,5,4995,Net Banking,Hyderabad,02-02-2025,
+10832,C114,Clothing,Jacket,2499,8,19992,Net Banking,Bengaluru,25-09-2025,Yes
+10833,C235,Home,Chair,1499,6,8994,Net Banking,Bengaluru,01-01-2025,No
+10834,C257,Clothing,Jeans,999,10,9990,Net Banking,Pune,01-05-2025,Yes
+10835,C278,Clothing,Shoes,799,1,799,Card,Bengaluru,12-09-2025,Yes
+10836,C133,Clothing,Shirt,2499,5,,Card,Mumbai,06-08-2025,
+10837,C206,Groceries,Eggs,799,9,7191,UPI,Hyderabad,02-09-2025,
+10838,C182,Electronics,Mouse,499,3,1497,Card,Hyderabad,05-11-2025,No
+10839,C189,Groceries,Eggs,799,2,1598,Net Banking,Delhi,17-04-2025,No
+10840,C114,Groceries,Bread,799,6,4794,Card,Delhi,20-10-2025,Yes
+10841,C146,Clothing,Jeans,1499,1,1499,Net Banking,Delhi,15-09-2025,No
+10842,C171,Clothing,Shirt,499,,3992,Net Banking,Mumbai,10-10-2025,No
+10843,C270,Home,Lamp,199,4,796,Net Banking,Delhi,08-09-2025,Yes
+10844,C124,Groceries,Bread,799,1,799,UPI,Hyderabad,20-04-2025,Yes
+10845,C297,Groceries,Eggs,999,9,8991,UPI,Hyderabad,22-03-2025,No
+10846,C265,Clothing,Shirt,1499,2,2998,UPI,Bengaluru,17-01-2025,Yes
+10847,C163,Clothing,Shoes,499,9,4491,UPI,Delhi,19-01-2025,
+10848,C295,Electronics,Phone,299,8,2392,upi,Delhi,22-09-2025,Yes
+10849,C237,Clothing,Jeans,799,10,7990,Card,Delhi,12-01-2025,
+10850,C170,Home,Table,499,4,1996,Cash,Delhi,03-04-2025,Yes
+10851,C239,Clothing,Jeans,199,5,995,Net Banking, Delhi ,11-09-2025,Yes
+10852,C189,Home,Chair,199,4,796,Net Banking,Delhi,11-05-2025,No
+10853,C291,Clothing,Shirt,2499,8,19992,Cash,Bengaluru,21-01-2025,No
+10854,C228,Electronics,Laptop,499,9,4491,Net Banking,Bengaluru,22-04-2025,Yes
+10855,C191,Home,Curtain,2499,5,12495,Net Banking,Bengaluru,03-02-2025,Yes
+10856,C139,Clothing,Shirt,2499,9,22491,Cash,Mumbai,29-07-2025,Yes
+10857,C170,Groceries,Eggs,2499,2,4998,UPI,Pune,16-03-2025,Yes
+10858,C272,Home,Curtain,299,8,2392,Card,Hyderabad,Invalid Date,No
+10859,C106,Electronics,Headphones,2499,4,9996,UPI,Bengaluru,29-07-2025,No
+10860,C134,Home,Lamp,2499,6,14994,UPI, Delhi ,06-09-2025,No
+10861,C139,Groceries,Milk,999,1,999,Net Banking,Pune,20-10-2025,No
+10862,C132,Electronics,Mouse,999,4,3996,UPI,Delhi,24-03-2025,Yes
+10863,C176,Groceries,Rice,999,10,9990,Net Banking,Delhi,08-11-2025,
+10864,C289,Home,Chair,799,6,4794,Cash, Bengaluru ,01-03-2025,Yes
+10865,C159,Home,Curtain,199,9,,UPI,Delhi,18-02-2025,No
+10866,C113,Clothing,Jacket,199,6,1194,Card,Delhi,05-03-2025,No
+10867,C193,Clothing,Jeans,999,5,4995,UPI,Hyderabad,26-03-2025,No
+10868,C262,Electronics,Phone,2499,5,12495,Cash,Delhi,21-04-2025,No
+10869,C224,Home,Table,-199,6,4794,Net Banking,Delhi,18-09-2025,No
+10870,C260,Electronics,Headphones,299,3,897,UPI,Delhi,04-03-2025,Yes
+10871,C121,Groceries,Bread,,7,6993,Cash,Bengaluru,15-06-2025,
+10872,C275,Electronics,Headphones,199,,597,Net Banking,Delhi,09-05-2025,No
+10873,C117,Groceries,Eggs,1499,9,13491,Cash,Pune,13-01-2025,No
+10874,C239,Home,Chair,1499,1,1499,Cash,Hyderabad,08-07-2025,Yes
+10875,C132,Groceries,Milk,999,4,3996,Cash,Mumbai,24-09-2025,No
+10876,C288,Home,Curtain,2499,3,7497,Cash,Delhi,10-10-2025,No
+10877,C103,Clothing,Shoes,499,,998,UPI,Pune,04-05-2025,Yes
+10878,C118,Clothing,Shirt,2499,4,9996,UPI,Hyderabad,24-07-2025,
+10879,C261,Groceries,,199,1,199,Card,Pune,22-05-2025,Yes
+10880,C283,Electronics,Headphones,199,9,1791,Cash,Bengaluru,Invalid Date,Yes
+10881,C183,Home,,799,10,7990,Card,Pune,29-06-2025,No
+10882,C300,Electronics,Laptop,299,-4,2392,net banking,Pune,29-12-2025,No
+10883,C131,Groceries,Rice,999,6,5994,Net Banking,Bengaluru,17-02-2025,No
+10884,C143,Electronics,Mouse,299,1,,UPI,Pune,16-02-2025,Yes
+10885,C173,Groceries,Milk,999,2,1998,Net Banking,Pune,02-08-2025,Yes
+10886,C279,Groceries,Milk,799,4,3196,Card, Bengaluru ,01-02-2025,No
+10887,C275,Electronics,Laptop,199,9,1791,Card,Bengaluru,25-10-2025,No
+10888,C260,Groceries,Milk,999,8,7992,Card,Bengaluru,07-06-2025,Yes
+10889,C273,Groceries,,499,-1,2994,Cash,Delhi,13-06-2025,No
+10890,C241,Home,Table,1499,1,1499,Cash,Bengaluru,22-04-2025,No
+10891,C181,Clothing,Shirt,999,3,2997,Card,Bengaluru,15-03-2025,Yes
+10892,C233,Home,Table,999,1,999,UPI,Mumbai,07-08-2025,No
+10893,C265,Home,Lamp,999,3,2997,UPI,Pune,30-12-2025,
+10894,C255,Clothing,Shoes,2499,2,4998,UPI,Bengaluru,10-09-2025,Yes
+10895,C258,Electronics,Headphones,299,3,897,Card,Delhi,14-02-2025,Yes
+10896,C165,Clothing,Shoes,2499,2,4998,Cash,Pune,29-11-2025,
+10897,C211,Clothing,Shirt,2499,4,,Net Banking,Delhi,10-05-2025,
+10898,C202,Clothing,Shirt,1499,9,13491,Net Banking,Delhi,29-12-2025,Yes
+10899,C158,Clothing,,799,,,Cash,Delhi,29-11-2025,No
+10900,C186,Home,Curtain,199,,1791,Net Banking,Delhi,01-01-2025,
+10901,C185,Clothing,Jeans,2499,1,2499,Card,Mumbai,15-07-2025,No
+10902,C189,Home,Curtain,299,6,1794,UPI,Hyderabad,01-06-2025,No
+10903,C122,Home,Table,499,1,499,Card,Bengaluru,31-05-2025,
+10904,C124,Electronics,Mouse,1499,10,14990,Cash,Mumbai,19-11-2025,Yes
+10905,C214,Groceries,Eggs,,2,998,UPI,Mumbai,25-06-2025,No
+10906,C165,Electronics,,799,7,5593,Net Banking,Pune,16-12-2025,Yes
+10907,C162,Groceries,Eggs,799,4,3196,Net Banking,Bengaluru,31-07-2025,No
+10908,C123,Home,Chair,299,3,897,Cash,Pune,03-06-2025,Yes
+10909,C214,Electronics,Laptop,799,10,7990,UPI,Hyderabad,12-11-2025,No
+10910,C221,Electronics,Headphones,799,4,3196,Cash,Pune,12-04-2025,Yes
+10911,C193,Home,Table,1499,3,4497,Net Banking,Bengaluru,17-01-2025,No
+10912,C128,Home,Lamp,499,4,1996,Net Banking,Mumbai,05-10-2025,No
+10913,C127,Home,Curtain,299,8,2392,Cash,Pune,02-07-2025,No
+10914,C176,Clothing,Shoes,1499,4,5996,Net Banking, Delhi ,20-10-2025,No
+10915,C119,Home,Chair,1499,7,10493,Net Banking,Bengaluru,10-05-2025,Yes
+10916,C242,Home,Chair,799,2,1598,Net Banking,Delhi,15-01-2025,No
+10917,C263,Home,Lamp,299,8,,UPI,Delhi,01-03-2025,Yes
+10918,C189,Electronics,Laptop,499,2,998,UPI,Pune,21-04-2025,
+10919,C285,Groceries,Eggs,799,4,3196,Cash,Mumbai,13-04-2025,
+10920,C135,Electronics,Headphones,1499,,2998,cash,Hyderabad,27-05-2025,
+10921,C229,Home,Curtain,299,,598,Cash,Mumbai,24-09-2025,No
+10922,C101,Electronics,Laptop,199,9,1791,Cash,Bengaluru,05-04-2025,No
+10923,C201,Clothing,Jeans,499,6,2994,Cash, Pune ,28-05-2025,No
+10924,C230,Electronics,Headphones,999,1,999,Net Banking,Hyderabad,11-11-2025,Yes
+10925,C176,Electronics,Laptop,799,8,6392,Net Banking,Hyderabad,07-02-2025,No
+10926,C198,Electronics,Phone,299,10,,Cash,Delhi,19-03-2025,
+10927,C204,Electronics,Laptop,1499,2,2998,Card,Pune,20-10-2025,No
+10928,C280,Clothing,Shirt,199,1,199,Card,Pune,24-04-2025,No
+10929,C214,Clothing,Jacket,2499,,22491,Card,Bengaluru,09-01-2025,Yes
+10930,C265,Clothing,Shoes,299,10,2990,Cash,Delhi,28-09-2025,No
+10931,C191,Groceries,Milk,199,1,199,Card,Bengaluru,20-12-2025,No
+10932,C150,Groceries,Bread,,4,3196,Cash,Bengaluru,26-09-2025,Yes
+10933,C227,Home,Chair,299,9,2691,Net Banking,Pune,08-04-2025,Yes
+10934,C220,Groceries,Bread,1499,5,7495,Net Banking,Pune,10-06-2025,Yes
+10935,C136,Electronics,Mouse,499,-4,1996,UPI,Hyderabad,16-07-2025,No
+10936,C272,Home,Table,,6,1194,UPI,Hyderabad,08-04-2025,Yes
+10937,C279,Home,Curtain,1499,5,7495,Card,Mumbai,05-02-2025,Yes
+10938,C264,Groceries,Milk,799,3,2397,Cash,Mumbai,01-08-2025,Yes
+10939,C265,Electronics,Headphones,199,8,1592,Card,Hyderabad,18-06-2025,Yes
+10940,C234,Home,Curtain,799,7,,Net Banking,Hyderabad,01-05-2025,Yes
+10941,C271,Groceries,Eggs,199,10,1990,Net Banking,Mumbai,18-02-2025,Yes
+10942,C162,Clothing,,299,3,897,Net Banking,Delhi,17-05-2025,
+10943,C150,Electronics,Mouse,1499,2,2998,Net Banking,Bengaluru,14-12-2025,No
+10944,C254,Electronics,Laptop,1499,8,11992,Cash,Hyderabad,16-01-2025,Yes
+10945,C127,Home,Table,499,1,499,Cash,Delhi,02-05-2025,Yes
+10946,C297,Groceries,Milk,999,6,5994,upi,Delhi,21-01-2025,Yes
+10947,C257,Groceries,Rice,2499,1,2499,Net Banking,Pune,24-03-2025,Yes
+10948,C167,Clothing,Shirt,799,6,4794,Card,Delhi,12-07-2025,No
+10949,C247,Home,Lamp,199,8,1592,Net Banking,Pune,25-03-2025,No
+10950,C259,Home,Chair,299,10,2990,Cash,Bengaluru,16-05-2025,No
+10951,C251,Home,Chair,199,2,398,Card,Delhi,05-09-2025,Yes
+10952,C210,Clothing,Jacket,2499,7,17493,Net Banking,Hyderabad,18-02-2025,No
+10953,C297,Home,Table,299,1,299,Net Banking,Hyderabad,14-01-2025,
+10954,C219,Home,Lamp,499,5,2495,UPI,Mumbai,07-12-2025,Yes
+10955,C209,Home,Curtain,299,3,897,Cash,Hyderabad,11-03-2025,
+10956,C147,Groceries,Milk,,6,5994,Cash,Bengaluru,01-06-2025,Yes
+10957,C187,Groceries,Bread,2499,10,24990,UPI,Bengaluru,18-10-2025,No
+10958,C110,Electronics,Mouse,2499,7,17493,UPI,Delhi,24-07-2025,No
+10959,C206,Groceries,Bread,1499,1,1499,Net Banking,Bengaluru,19-03-2025,No
+10960,C182,Home,Lamp,299,5,1495,Card,Delhi,23-05-2025,No
+10961,C290,Electronics,,199,3,,Cash,Mumbai,27-09-2025,No
+10962,C148,Electronics,Mouse,499,4,,Cash,Mumbai,12-06-2025,Yes
+10963,C210,Home,Lamp,499,4,1996,cash,Mumbai,05-01-2025,No
+10964,C239,Groceries,Milk,799,7,5593,UPI,Delhi,19-10-2025,
+10965,C136,Groceries,Eggs,799,5,3995,Net Banking,Delhi,14-11-2025,Yes
+10966,C249,Clothing,,1499,6,8994,Card,Hyderabad,13-01-2025,No
+10967,C139,Groceries,Rice,,9,13491,Net Banking,Hyderabad,27-01-2025,Yes
+10968,C161,Clothing,Shirt,1499,1,1499,Card,Delhi,05-12-2025,No
+10969,C263,Groceries,Bread,799,8,6392,Card,Hyderabad,26-04-2025,No
+10970,C292,Clothing,Shoes,799,10,7990,Cash,Mumbai,11-06-2025,Yes
+10971,C270,Groceries,Bread,199,7,1393,Card,Bengaluru,31-01-2025,Yes
+10972,C270,Home,Lamp,999,7,6993,Net Banking,Mumbai,26-03-2025,Yes
+10973,C272,Electronics,Mouse,2499,8,19992,Cash,Mumbai,30-08-2025,Yes
+10974,C112,Groceries,Eggs,499,7,3493,Net Banking,Bengaluru,17-06-2025,
+10975,C295,Clothing,Shirt,1499,1,1499,Net Banking,Bengaluru,18-06-2025,No
+10976,C161,Clothing,Jacket,999,10,9990,UPI,Delhi,11-11-2025,Yes
+10977,C100,Clothing,Jeans,199,2,398,Net Banking,Pune,23-05-2025,Yes
+10978,C167,Electronics,Mouse,1499,4,5996,Cash,Hyderabad,20-09-2025,No
+10979,C130,Electronics,Headphones,199,9,1791,Net Banking,Pune,07-02-2025,No
+10980,C138,Electronics,Mouse,499,3,1497,Card,Delhi,04-08-2025,Yes
+10981,C276,Groceries,Eggs,2499,1,2499,Card,Mumbai,07-11-2025,
+10982,C115,Clothing,Shirt,999,6,5994,Cash,Delhi,15-10-2025,Yes
+10983,C146,Electronics,Headphones,499,1,499,Card,Mumbai,27-10-2025,No
+10984,C232,Groceries,Rice,1499,6,8994,Cash,Delhi,08-11-2025,Yes
+10985,C114,Clothing,Shoes,199,7,1393,Net Banking,Mumbai,21-01-2025,No
+10986,C218,Groceries,Milk,1499,6,8994,UPI,Mumbai,30-09-2025,No
+10987,C193,Groceries,Bread,799,10,7990,UPI,Delhi,Invalid Date,
+10988,C291,Clothing,Shirt,299,8,2392,Net Banking,Bengaluru,22-11-2025,No
+10989,C145,Groceries,Bread,299,6,1794,UPI,Mumbai,16-03-2025,Yes
+10990,C107,Electronics,Headphones,299,5,1495,Net Banking,Hyderabad,08-06-2025,Yes
+10991,C263,Home,Table,199,,1194,UPI,Bengaluru,23-06-2025,No
+10992,C256,Clothing,Jeans,799,3,2397,Cash,Hyderabad,12-02-2025,No
+10993,C155,Home,Curtain,499,10,4990,UPI,Pune,06-11-2025,Yes
+10994,C232,Clothing,Shirt,1499,5,7495,Cash,Hyderabad,30-05-2025,No
+10995,C114,Groceries,Bread,1499,3,4497,Cash,Mumbai,28-07-2025,Yes
+10996,C117,Home,Table,999,,6993,Cash,Delhi,25-07-2025,Yes
+10997,C213,Electronics,Laptop,499,3,1497,Card,Delhi,01-05-2025,Yes
+10998,C142,Groceries,Bread,499,4,1996,Card,Delhi,11-05-2025,No
+10999,C252,Clothing,Shoes,199,9,1791,UPI,Mumbai,23-06-2025,No
+11000,C171,Clothing,Shoes,2499,7,17493,Card,Bengaluru,08-05-2025,No
+10001,C250,Groceries,,2499,8,,Net Banking,Bengaluru,Invalid Date,Yes
+10002,C241,Electronics,Mouse,999,1,999,Card,Bengaluru,23-07-2025,
+10003,C233,Clothing,Shoes,2499,,12495,Card,Bengaluru,06-02-2025,Yes
+10004,C182,Electronics,Phone,2499,7,17493,Card,Pune,29-12-2025,Yes
+10005,C125,Home,,1499,-3,1499,Cash,Delhi,11-12-2025,No
+10006,C209,Groceries,Eggs,1499,3,4497,UPI,Bengaluru,07-12-2025,Yes
+10007,C196,Electronics,Mouse,,8,3992,Net Banking,Pune,01-04-2025,
+10008,C185,Electronics,Headphones,499,1,499,Cash,Bengaluru,22-02-2025,Yes
+10009,C291,Home,Table,499,10,4990,Net Banking,Pune,28-01-2025,No
+10010,C285,Groceries,,1499,7,10493,Card,Delhi,22-04-2025,
